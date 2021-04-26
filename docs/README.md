@@ -1,10 +1,6 @@
 <br>
 <br>
 
-<p align="center">
-    <img width="280px" src="https://gitee.com/veal98/images/raw/master/img/20210212163625.png" >
-</p>
-
 
 <div align="center">
 
