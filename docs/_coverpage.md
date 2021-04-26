@@ -38,7 +38,7 @@
     color: rgb(60, 60, 60); text-align: center;
     text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
     line-height: 1.5;">
-    快速且系统的掌握面试必备知识点
+    快速且系统的掌握面试必备知识点 ---- 帅枫
 </div>
 
 <br>
@@ -48,7 +48,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
 
 
-[GitHub](https://kuangtf.github.io/Blogs)
+[GitHub](https://github.com/kuangtf/Blogs/README.md)
 [开始阅读](README.md)
 
 <!-- background image -->
