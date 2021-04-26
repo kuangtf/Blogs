@@ -27,7 +27,7 @@
 
 - 🙏 由于本人水平有限，仓库中的知识点来自本人原创、视频、书籍、博客等，非原创均已标明出处（或在参考资料中列出），如有遗漏或发现文章错误及排版问题，请提 issue 或 PR
 
-- 🔮 [Github 在线阅读](https://kuangtf.github.io/Blogs/) | [Github 仓库地址](https://github.com/kuangtf/Blogs)
+- 🔮 [Github 在线阅读](https://kuangtf.github.io/Blogs/#/README.md) | [Github 仓库地址](https://github.com/kuangtf/Blogs)
 
 
 ## 📑 计算机基础
