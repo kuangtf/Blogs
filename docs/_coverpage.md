@@ -48,7 +48,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
 
 
-[GitHub](https://github.com/kuangtf/Blogs/README.md)
+[GitHub](https://github.com/kuangtf/Blogs#readme)
 [开始阅读](README.md)
 
 <!-- background image -->
