@@ -30,12 +30,14 @@
 
 <br>
 
-<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/a.jpg">
+<!-- li<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/a.jpg">ght -->
 
-<div style = "font-weight: 100; font-size: 1.2rem; 
+
+
+<div style = "font-weight: 100; font-size: 3.0rem; 
     color: rgb(60, 60, 60); text-align: center;
     text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
-    line-height: 1.2;">
+    line-height: 1.5;">
     快速且系统的掌握面试必备知识点
 </div>
 
@@ -51,4 +53,5 @@
 
 <!-- background image -->
 
-![](https://gitee.com/kuangtf/blogImage/raw/master/img/c70a565b65c499b4d6d6f4210a7a103b.jpg)
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/fengmina.jpg)
+
