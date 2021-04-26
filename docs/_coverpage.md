@@ -51,4 +51,4 @@
 
 <!-- background image -->
 
-![](![](https://gitee.com/kuangtf/blogImage/raw/master/img/c70a565b65c499b4d6d6f4210a7a103b.jpg))
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/c70a565b65c499b4d6d6f4210a7a103b.jpg)
