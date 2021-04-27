@@ -15,9 +15,6 @@
 <br>
 <br>
 
-![](https://svg.hamm.cn/gitee.svg?user=veal98&project=CS-Wiki&type=star&color=5d71ca&radius=3) &nbsp;&nbsp;&nbsp;
-![](https://svg.hamm.cn/gitee.svg?user=veal98&project=CS-Wiki&type=fork&color=5d71ca&radius=3) &nbsp;&nbsp;&nbsp;
-![]( https://svg.hamm.cn/badge.svg?key=author&value=小牛肉&color=6cb54e&radius=3)
 
 
 [<i class="fa fa-github-alt fa-1x"></i> GitHub](https://kuangtf.github.io/Blogs)
@@ -44,14 +41,12 @@
 <br>
 <br>
 
-[![GitHub stars](https://img.shields.io/github/stars/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Veal98/CS-Wiki?logo=github)](https://github.com/Veal98/CS-Wiki/network)
-
+![GitHub issues](https://img.shields.io/github/issues/kuangtf/Blogs)![GitHub forks](https://img.shields.io/github/forks/kuangtf/Blogs)![GitHub stars](https://img.shields.io/github/stars/kuangtf/Blogs)![GitHub stars](https://img.shields.io/github/license/kuangtf/Blogs)
 
 [GitHub](https://github.com/kuangtf/Blogs#readme)
 [开始阅读](README.md)
 
 <!-- background image -->
 
-![](https://gitee.com/kuangtf/blogImage/raw/master/img/fengmian2.jpg)
+![](![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg))
 
