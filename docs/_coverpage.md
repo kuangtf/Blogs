@@ -47,6 +47,5 @@
 [开始阅读](README.md)
 
 <!-- background image -->
-
-![](![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg))
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg))
 
