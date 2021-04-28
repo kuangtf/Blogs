@@ -72,7 +72,7 @@
 
 ## 📑 数据库
 
-### MySQL
+#### MySQL
 
 - [Mysql底层数据结构，b树和b+树的区别 ，聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
 - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
@@ -91,7 +91,7 @@
 - 什么是sql注入，如何防止sql注入？
 - sql优化和索引优化
 
-### Reids
+#### Reids
 
 - Redis底层数据结构
 - 淘汰过期键的策略
