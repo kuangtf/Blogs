@@ -26,12 +26,12 @@
 
 ## 🤖 算法
 
-#### 数据结构
+**数据结构**
 
 - [红黑树](https://www.jianshu.com/p/e136ec79235c)
 - [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
 
-#### 算法
+**算法**
 
 - [Leetcode 题解](https://leetcode-cn.com/u/kuangtf/)
 - [剑指 Offer 题解](https://leetcode-cn.com/problemset/lcof/)
@@ -40,7 +40,7 @@
 
 ## 🎮 操作系统
 
-#### 操作系统
+**操作系统**
 
 - 进程通信的方式
 - 进程同步机制
@@ -49,7 +49,7 @@
 - 孤儿进程和僵尸进程
 - [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
 
-#### Linux
+**Linux**
 
 - 常用的Linux命令
 - Linux磁盘管理
@@ -72,7 +72,7 @@
 
 ## 📑 数据库
 
-#### MySQL
+**MySQL**
 
 - [Mysql底层数据结构，b树和b+树的区别 ，聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
 - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
@@ -91,7 +91,7 @@
 - 什么是sql注入，如何防止sql注入？
 - sql优化和索引优化
 
-#### Reids
+**Reids**
 
 - Redis底层数据结构
 - 淘汰过期键的策略
@@ -105,19 +105,19 @@
 
 ## 🍵 Java
 
-#### Java 基础
+**Java 基础**
 
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
 - [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
 
-#### 集合
+**集合**
 
 - HashMap底层原理
 - ConcurrentHash底层原理
 - ArrayList 和 LinkedList有什么区别
 
-#### 并发
+**并发**
 
 - [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
 - [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
@@ -129,7 +129,7 @@
 - [CAS](https://www.jianshu.com/p/eac466494477) 
 - conditions
 
-#### JVM
+**JVM**
 
 - 常见的垃圾收集算法
 - 类加载过程
@@ -137,19 +137,19 @@
 
 ## 🔥 必备框架
 
-#### Spring
+**Spring**
 
 - spring 事务传播机制
 
-#### SpringMVC
+**SpringMVC**
 
 - SpringMVC的执行流程
 
-#### Mybatis
+**Mybatis**
 
 - mybatis缓存
 
-#### Spring Boot
+**Spring Boot**
 
 - Spring Boot 启动流程
 - 自动装配原理
@@ -175,14 +175,14 @@
 
 ## 📞 后记
 
-#### 公众号
+**公众号**
 
 - 文章会第一时间在公众号推送哟
 
-<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:30%;" />
+<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:50%;" />
 
-#### 联系我
+**联系我**
 
 - 有什么问题也可以添加我的微信，记得备注来意：格式 （学校或公司 - 姓名或昵称 - 来意）
 
-<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/wei.jpg" style="zoom:30%;" />
+<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/wei.jpg" style="zoom:50%;" />
