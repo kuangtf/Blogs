@@ -2,7 +2,7 @@
 
 <!-- <br>
 
-<img width="220px" src="![](https://gitee.com/kuangtf/blogImage/raw/master/img/22d372ff5576ab6d2e6043db7d8abfff.jpg)">
+<img width="220px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/title.jpg">
 
 
 <div style = "font-weight: 100; font-size: 1.2rem; 
@@ -35,7 +35,7 @@
     color: rgb(60, 60, 60); text-align: center;
     text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
     line-height: 1.5;">
-    快速且系统的掌握面试必备知识点 ---- 帅枫
+    快速且系统的掌握必备知识点 ---- 帅枫
 </div>
 
 <br>
@@ -47,5 +47,5 @@
 [开始阅读](README.md)
 
 <!-- background image -->
-![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg))
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg)
 
