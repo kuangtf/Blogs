@@ -175,13 +175,13 @@
 
 ## 📞 后记
 
-**公众号**
+#### 公众号
 
 - 文章会第一时间在公众号推送哟
 
 <img src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:50%;" />
 
-**联系我**
+#### 联系我
 
 - 有什么问题也可以添加我的微信，记得备注来意：格式 （学校或公司 - 姓名或昵称 - 来意）
 
