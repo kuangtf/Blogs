@@ -27,14 +27,13 @@
 
 <br>
 
-<!-- li<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/a.jpg">ght -->
+<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/title.jpg">
 
 
-
-<div style = "font-weight: 100; font-size: 3.0rem; 
+<div style = "font-weight: 100; font-size: 1.5rem; 
     color: rgb(60, 60, 60); text-align: center;
     text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
-    line-height: 1.5;">
+    line-height: 1.2;">
     快速且系统的掌握必备知识点 ---- 帅枫
 </div>
 
@@ -47,5 +46,5 @@
 [开始阅读](README.md)
 
 <!-- background image -->
-![](https://gitee.com/kuangtf/blogImage/raw/master/img/back.jpg)
+![](https://www.recoluan.com/assets/img/bg.2cfdbb33.svg)
 
