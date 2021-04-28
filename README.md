@@ -4,8 +4,7 @@
     <img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/title.jpg" >
 </p>
 
-
-
+</br>
 <br>
 
 
@@ -14,6 +13,7 @@
 | [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)|[:memo:](#memo-后记)|
 
 
+</br>
 
 ---
 
@@ -25,27 +25,27 @@
 
 - 🔮 [Github 在线阅读](https://kuangtf.github.io/Blogs/#/README.md) | [Github 仓库地址](https://github.com/kuangtf/Blogs)
 
-## :pencil2: 算法
+## 🤖 算法
 
 - [Leetcode 题解](https://leetcode-cn.com/u/kuangtf/)
 
 - [剑指 Offer 题解](https://leetcode-cn.com/problemset/lcof/)
 
-## :computer: 操作系统
+## 🎮 操作系统
 
 - [计算机操作系统](https://blog.csdn.net/weixin_46156200/category_10741956.html?spm=1001.2014.3001.5482)
 - [Linux]()
 
-## :cloud: 网络 
+## 🎨 网络 
 
 - [计算机网络](https://blog.csdn.net/weixin_46156200/category_10731223.html?spm=1001.2014.3001.5482)
 
-## :floppy_disk: 数据库
+## 📑 数据库
 
 - [MySQL]()
 - [Redis]()
 
-## :coffee: Java
+## 🍵 Java
 
 - [Java 基础]()
 - [Java 容器]()
@@ -57,7 +57,7 @@
 - [SSM](https://blog.csdn.net/weixin_46156200/category_10651101.html?spm=1001.2014.3001.5482)
 - [Spring Boot 2.x](https://blog.csdn.net/weixin_46156200/category_10784235.html?spm=1001.2014.3001.5482)
 
-## :bulb: 系统设计 
+## 👷 系统设计 
 
 - [系统设计基础]()
 - [分布式]()
@@ -66,17 +66,17 @@
 - [缓存]()
 - [消息队列]()
 
-## :art: 面向对象
+## 🦄 面向对象
 
 - [面向对象思想]()
 - [设计模式](https://blog.csdn.net/weixin_46156200/category_10769699.html?spm=1001.2014.3001.5482)
 
-## :wrench: 工具 
+## 🔨 工具 
 
 - [Git]()
 - [Docker]()
 
-## :memo: 后记
+## 📞 后记
 
 - 有什么问题也可以添加我的微信，记得备注来意：格式 <u>（学校或公司 - 姓名或昵称 - 来意）</u>
 
