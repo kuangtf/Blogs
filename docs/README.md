@@ -34,20 +34,75 @@
 ## 🎮 操作系统
 
 - [计算机操作系统](https://blog.csdn.net/weixin_46156200/category_10741956.html?spm=1001.2014.3001.5482)
-- [Linux]()
+- 进程通信的方式
+- 进程同步机制
+- 进程调度算法有哪些
+- 磁盘的寻道算法
+- 孤儿进程和僵尸进程
+- [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
 
 ## 🎨 网络 
 
 - [计算机网络](https://blog.csdn.net/weixin_46156200/category_10731223.html?spm=1001.2014.3001.5482)
+- [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
+- [Tcp和udp区别](https://juejin.cn/post/6857707137797292046)
+- 长连接和短连接
+- [Cookie和session的区别？](https://www.cnblogs.com/ityouknow/p/10856177.html)
+- 典型的HTTP攻击手段
+- 粘包和拆包
+- ping的原理
 
 ## 📑 数据库
 
-- [MySQL]()
-- [Redis]()
+- **MySQL**
+- [Mysql底层数据结构，b树和b+树的区别 ，聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
+- [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
+- 索引在哪种情况下会失效
+- 数据库的乐观锁和悲观锁?
+- [最左原则?联合索引?](https://blog.csdn.net/u013568373/article/details/93891531#:~:text=%E6%9C%80%E5%B7%A6%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99%E7%9A%84%E6%88%90%E5%9B%A0%20MySQL,%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%EF%BC%8C%E5%AE%83%E4%BC%9A%20%E9%A6%96%E5%85%88%E6%A0%B9%E6%8D%AE%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E3%80%81%E4%B9%9F%E5%B0%B1%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E5%86%8D%E5%AF%B9%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%20%E3%80%82)
+- [分库解决了什么问题?分表解决了什么问题?](https://segmentfault.com/a/1190000023914691)
+- 可以说下数据库范式吗？
+- 什么是sql注入，如何防止sql注入？
+-  [MVVC](https://juejin.cn/post/6871046354018238472)
+- 数据库锁有哪些？
+- sql优化和索引优化
+- 分布式事务
+- [讲讲数据库表怎么设计的](https://blog.csdn.net/kw023781/article/details/103002794)
+- 数据库的主从复制和保证一致性
+- 事务的两阶段提交
+- MySQL慢查询
+- **Redis**
+- - Redis如何实现分布式锁，及其原理
+- Redis底层数据结构
+- 淘汰过期键的策略？
+- 缓存穿透 缓存雪崩 如何避免 
+- redis单线程模型
+- 为什么 Redis 这么快?
+- 跳表
+- 布隆过滤器
+- Zset底层数据结构
+- 保证数据库和缓存的一致性？
+- [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 
 ## 🍵 Java
 
 - [Java 基础]()
+- [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
+- [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
+- [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
+- [红黑树](https://www.jianshu.com/p/e136ec79235c)
+- [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
+- [有哪些散列算法](https://cloud.tencent.com/developer/article/1676797)
+- spring 事务传播机制
+- [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
+- [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
+- [AQS的实现原理](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+- [synchronized](https://zhuanlan.zhihu.com/p/29866981)
+- ReentrantLock
+- volatile
+- [java线程池](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+- [CAS](https://www.jianshu.com/p/eac466494477) 
+- conditions
 - [Java 容器]()
 - [Java 并发](https://blog.csdn.net/weixin_46156200/category_10779064.html)
 - [Java 虚拟机](https://blog.csdn.net/weixin_46156200/category_10734144.html?spm=1001.2014.3001.5482)
