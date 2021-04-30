@@ -42,33 +42,39 @@
 
 **操作系统**
 
-- 进程通信的方式
-- 进程同步机制
-- 进程调度算法有哪些
-- 磁盘的寻道算法
-- 孤儿进程和僵尸进程
+- [进程通信的方式](https://mp.weixin.qq.com/s/kxxV_yy5eesHiHHLPO0mWg)
+- [进程同步机制](https://mp.weixin.qq.com/s/vvjhbzsWQNRkU7-b_dURlQ)
+- [进程调度算法](https://mp.weixin.qq.com/s/CEntVZvo_f3VPw5-mjxbqw)
+- [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
+- [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
 - [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
 
 **Linux**
 
-- 常用的Linux命令
+- [常用的Linux命令](https://juejin.cn/post/6844903930166509581)
 - Linux磁盘管理
 - Linux文件与目录管理
 
 ## 🎨 网络 
 
 - [计算机网络](https://blog.csdn.net/weixin_46156200/category_10731223.html?spm=1001.2014.3001.5482)
+- [IP协议详解](https://mp.weixin.qq.com/s/NO9RDt1A3T1rz-Q4_Y0gPw)
+- [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/u56NcMs68sgi6uDpzJ61yw)
 - [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
+- [TCP保证可靠传输的机制](https://mp.weixin.qq.com/s/AwdxuP5nJSnkyvXRKnqdOg)
 - [Tcp和udp区别](https://juejin.cn/post/6857707137797292046)
-- 长连接和短连接
-- [Cookie和session的区别？](https://www.cnblogs.com/ityouknow/p/10856177.html)
-- 典型的HTTP攻击手段
-- 粘包和拆包
-- ping的原理
-- 三次握手和四次挥手
-- HTTPS协议
-- TCP保证可靠传输的机制
-- 输入一个URL回车发生了什么
+- [ARP协议详解](https://mp.weixin.qq.com/s/HkcMdiZbfsV52IW7xhfdqg)
+- [DNS协议详解](https://mp.weixin.qq.com/s/AfVqL7lEsbRE-YLOPZ4gDQ)
+- [DNS协议使用UDP吗](https://mp.weixin.qq.com/s/3QieSeqbuU2fmqYRqj6GaQ)
+- [HTTP协议详解](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
+- [HTTPS协议详解](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
+- [ICMP详解](https://mp.weixin.qq.com/s/3SujLofRpxA2RfLljFbW1Q)
+- [长连接和短连接](https://www.cnblogs.com/0201zcr/p/4694945.html)
+- [Cookie和session的区别](https://www.cnblogs.com/ityouknow/p/10856177.html)
+- [典型的HTTP攻击手段](https://www.hollischuang.com/archives/2101)
+- [粘包和拆包](https://www.cnblogs.com/wade-luffy/p/6165671.html)
+- [ping的原理](https://www.cnblogs.com/xiaolincoding/p/12571184.html)
+- [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
 
 ## 📑 数据库
 
@@ -76,7 +82,7 @@
 
 - [Mysql底层数据结构，b树和b+树的区别 ，聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
 - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
-- 索引在哪种情况下会失效
+- [索引在哪种情况下会失效](https://bbs.huaweicloud.com/blogs/244749)
 - [最左原则?联合索引?](https://blog.csdn.net/u013568373/article/details/93891531#:~:text=%E6%9C%80%E5%B7%A6%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99%E7%9A%84%E6%88%90%E5%9B%A0%20MySQL,%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%EF%BC%8C%E5%AE%83%E4%BC%9A%20%E9%A6%96%E5%85%88%E6%A0%B9%E6%8D%AE%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E3%80%81%E4%B9%9F%E5%B0%B1%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E5%86%8D%E5%AF%B9%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%20%E3%80%82)
 - [分库解决了什么问题?分表解决了什么问题?](https://segmentfault.com/a/1190000023914691)
 - 可以说下数据库范式吗？
@@ -103,6 +109,10 @@
 - Redis如何实现分布式锁，及其原理
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 
+### RabbitMQ
+
+- [RabbitMQ详解](https://blog.csdn.net/weixin_46156200/article/details/113729844)
+
 ## 🍵 Java
 
 **Java 基础**
@@ -113,33 +123,42 @@
 
 **集合**
 
-- HashMap底层原理
-- ConcurrentHash底层原理
+- [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+- [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
 
 **并发**
+
+- [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
 
 - [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
 - [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
 - [AQS的实现原理](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
-- ReentrantLock
-- volatile
+- [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [java线程池](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
 - [CAS](https://www.jianshu.com/p/eac466494477) 
-- conditions
+- [Semaphore详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
+- [CountDownLatch详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
+- [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
+- [ThreadPoolExecutor详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html)
 
 **JVM**
 
-- 常见的垃圾收集算法
-- 类加载过程
-- 运行时数据区
+- [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
+
+- [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
+- [类加载子系统](https://blog.csdn.net/weixin_46156200/article/details/112572301)
+- [堆详解](https://blog.csdn.net/weixin_46156200/article/details/112985882)
+- [虚拟机栈](https://blog.csdn.net/weixin_46156200/article/details/112827623)
 
 ## 🔥 必备框架
 
 **Spring**
 
 - spring 事务传播机制
+- IOC和AOP原理
+- spring bean的生命周期
 
 **SpringMVC**
 
@@ -156,32 +175,36 @@
 
 ## 👷 系统设计 
 
-- [系统设计基础]()
-- [分布式]()
-- [集群]()
-- [攻击技术]()
-- [缓存]()
-- [消息队列]()
+- 系统设计基础
+- 分布式
+- 集群
+- 攻击技术
+- 缓存
+- 消息队列
 
 ## 🦄 面向对象
 
-- [面向对象思想]()
+- 面向对象思想
 - [设计模式](https://blog.csdn.net/weixin_46156200/category_10769699.html?spm=1001.2014.3001.5482)
 
 ## 🔨 工具 
 
-- [Git]()
-- [Docker]()
+- Git
+- Docker
 
 ## 📞 后记
 **公众号**
 
 - 文章会第一时间在公众号推送哟
 
-<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:50%;" />
+<p align="center">
+    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:50%;" >
+</p>
 
 **联系我**
 
 - 有什么问题也可以添加我的微信，记得备注来意：格式 （学校或公司 - 姓名或昵称 - 来意）
 
-<img src="https://gitee.com/kuangtf/blogImage/raw/master/img/wei.jpg" style="zoom:50%;" />
+<p align="center">
+    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/wei.jpg" style="zoom:50%;" >
+</p>
