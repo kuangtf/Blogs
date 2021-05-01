@@ -48,6 +48,10 @@
 - [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
 - [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
 - [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
+- 进程、线程的区别
+- 死锁详解
+- 用户态和核心态的区别
+- 内存管理，虚拟内存
 
 **Linux**
 
@@ -75,6 +79,8 @@
 - [粘包和拆包](https://www.cnblogs.com/wade-luffy/p/6165671.html)
 - [ping的原理](https://www.cnblogs.com/xiaolincoding/p/12571184.html)
 - [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
+- HTTP  1.0  1.1  2.1 的区别
+- HTTP常见的状态码
 
 ## 📑 数据库
 
@@ -90,6 +96,7 @@
 - 数据库的乐观锁和悲观锁?
 - [MVVC](https://juejin.cn/post/6871046354018238472)
 - 分布式事务
+- 事务的ACID特性，隔离级别
 - [讲讲数据库表怎么设计的](https://blog.csdn.net/kw023781/article/details/103002794)
 - 数据库的主从复制和保证一致性
 - 事务的两阶段提交
@@ -120,6 +127,8 @@
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
 - [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
+- String、StringBuilder、StringBuffer区别
+- hash冲突和冲突处理
 
 **集合**
 
@@ -128,6 +137,8 @@
 - ArrayList 和 LinkedList有什么区别
 
 **并发**
+
+- Java线程创建的方式
 
 - [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
 
@@ -143,14 +154,23 @@
 - [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
 - [ThreadPoolExecutor详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html)
 
-**JVM**
+**JVM **
 
 - [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
-
 - [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
 - [类加载子系统](https://blog.csdn.net/weixin_46156200/article/details/112572301)
 - [堆详解](https://blog.csdn.net/weixin_46156200/article/details/112985882)
 - [虚拟机栈](https://blog.csdn.net/weixin_46156200/article/details/112827623)
+- 双亲委派机制
+- CMS和G1的区别
+- 哪些东西可以作为GC Roots
+- 内存泄露和内存溢出
+- 
+
+**IO**
+
+- select、poll、epoll的区别
+- IO多路复用详解
 
 ## 🔥 必备框架
 
@@ -184,8 +204,14 @@
 
 ## 🦄 面向对象
 
-- 面向对象思想
-- [设计模式](https://blog.csdn.net/weixin_46156200/category_10769699.html?spm=1001.2014.3001.5482)
+**设计模式**
+
+- 单例模式
+- 工厂模式
+
+**面向对象思想**
+
+- 面向对象的三大特征
 
 ## 🔨 工具 
 
