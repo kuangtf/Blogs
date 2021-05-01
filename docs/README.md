@@ -109,7 +109,7 @@
 - Redis如何实现分布式锁，及其原理
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 
-### RabbitMQ
+**RabbitMQ**
 
 - [RabbitMQ详解](https://blog.csdn.net/weixin_46156200/article/details/113729844)
 
