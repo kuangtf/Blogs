@@ -154,7 +154,7 @@
 - [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
 - [ThreadPoolExecutor详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html)
 
-**JVM **
+**JVM**
 
 - [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
 - [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
@@ -165,7 +165,6 @@
 - CMS和G1的区别
 - 哪些东西可以作为GC Roots
 - 内存泄露和内存溢出
-- 
 
 **IO**
 
