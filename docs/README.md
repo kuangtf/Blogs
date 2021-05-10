@@ -8,9 +8,9 @@
 <br>
 
 
-|          算法          |         操作系统          |        网络&nbsp;        |          数据库          |          Java          |          必备框架          |          系统设计           |          面向对象          |      &nbsp;工具       | 后记                   |
-| :--------------------: | :-----------------------: | :----------------------: | :----------------------: | :--------------------: | :------------------------: | :-------------------------: | :------------------------: | :-------------------: | ---------------------- |
-| [🤖 ](README?id=🤖-算法) | [🎮](README?id=🎮-操作系统) | [🎨  ](README?id=🎨-网络 ) | [📑 ](README?id=📑-数据库) | [🍵 ](README?id=🍵-Java) | [🔥 ](README?id=🔥-必备框架) | [👷 ](README?id=👷-系统设计 ) | [🦄 ](README?id=🦄-面向对象) | [🔨](README?id=🔨-工具) | [📞 ](README?id=📞-后记) |
+|          算法          |         操作系统          |        网络&nbsp;        |          数据库          |          Java          |          必备框架          | 微服务                   |          系统设计           |          面向对象          |      &nbsp;工具       | 后记                   |
+| :--------------------: | :-----------------------: | :----------------------: | :----------------------: | :--------------------: | :------------------------: | ------------------------ | :-------------------------: | :------------------------: | :-------------------: | ---------------------- |
+| [🤖 ](README?id=🤖-算法) | [🎮](README?id=🎮-操作系统) | [🎨  ](README?id=🎨-网络 ) | [📑 ](README?id=📑-数据库) | [🍵 ](README?id=🍵-Java) | [🔥 ](README?id=🔥-必备框架) | [🔮 ](README?id=🔮-微服务) | [👷 ](README?id=👷-系统设计 ) | [🦄 ](README?id=🦄-面向对象) | [🔨](README?id=🔨-工具) | [📞 ](README?id=📞-后记) |
 
 </br>
 
@@ -30,13 +30,33 @@
 
 - [红黑树](https://www.jianshu.com/p/e136ec79235c)
 - [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
+- [手撸LRU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486428&idx=1&sn=3611a14535669ba3372c73e24121247c&chksm=9bd7f5d4aca07cc28c02c3411d0633fc12c94c2555c08cbfaa2ccd50cc2d25160fb23bccce7f&scene=21#wechat_redirect)
+- [手撸LFU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486545&idx=1&sn=315ebfafa82c0dd3bcd9197eb270a7b6&chksm=9bd7f259aca07b4f063778509b3803993bc0d6cdaff32c076a102547b0afb82a5eea6119ed1a&scene=21#wechat_redirect)
 
 **算法**
 
-- [Leetcode 题解](https://leetcode-cn.com/u/kuangtf/)
-- [剑指 Offer 题解](https://leetcode-cn.com/problemset/lcof/)
-- [有哪些散列算法](https://cloud.tencent.com/developer/article/1676797)
-- 十大排序算法
+- [十大排序算法](https://www.iamshuaidi.com/312.html)
+- 数组：
+    - [二分查找](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484598&idx=1&sn=69edaf4a7f6bfd0b1185cae5d0689c1d&chksm=9bd7fabeaca073a8820bc93cb67a8e26fa9eaa1ab9717b7e3ac41b4aac12235067c8af3520d5&scene=21#wechat_redirect)
+    - [双指针](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484505&idx=1&sn=0e9517f7c4021df0e6146c6b2b0c4aba&chksm=9bd7fa51aca07347009c591c403b3228f41617806429e738165bd58d60220bf8f15f92ff8a2e&scene=21#wechat_redirect)
+    - [滑动窗口](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485141&idx=1&sn=0e4583ad935e76e9a3f6793792e60734&chksm=9bd7f8ddaca071cbb7570b2433290e5e2628d20473022a5517271de6d6e50783961bebc3dd3b&scene=21#wechat_redirect)
+- 链表：
+    - [反转链表的一部分](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484467&idx=1&sn=beb3ae89993b812eeaa6bbdeda63c494&chksm=9bd7fa3baca0732dc3f9ae9202ecaf5c925b4048514eeca6ac81bc340930a82fc62bb67681fa&scene=21#wechat_redirect)
+    - [K个一组反转链表](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484597&idx=1&sn=c603f1752e33cb2701e371d84254aee2&chksm=9bd7fabdaca073abd512d8fff18016c9092ede45fed65c307852c65a2026d8568ee294563c78&scene=21#wechat_redirect)
+    - [回文链表](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484822&idx=1&sn=44742c9a3557038c8da7150100d94db9&chksm=9bd7fb9eaca0728876e1146306a09f5453bcd5c35c4a264304ea6189faa83ec12a00322f0246&scene=21#wechat_redirect)
+- 栈和队列：
+    - [队列实现栈](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484567&idx=1&sn=e70930648967a0e4cbf0f594bc9f059d&chksm=9bd7fa9faca073899f031d8a2cfff6ab31c9a007f2f5503bcac36a91f3fe6a0a8a6926c2b961&scene=21#wechat_redirect)
+    - [栈实现队列](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484567&idx=1&sn=e70930648967a0e4cbf0f594bc9f059d&chksm=9bd7fa9faca073899f031d8a2cfff6ab31c9a007f2f5503bcac36a91f3fe6a0a8a6926c2b961&scene=21#wechat_redirect)
+- 二叉树：
+    - [二叉树第一期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487126&idx=1&sn=4de13e66397bc35970963c5a1330ce18&chksm=9bd7f09eaca0798853c41fba05ad5fa958b31054eba18b69c785ae92f4bd8e4cc7a2179d7838&scene=21#wechat_redirect)
+    - [二叉树第二期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487270&idx=1&sn=2f7ad74aabc88b53d94012ceccbe51be&chksm=9bd7f12eaca078384733168971147866c140496cb257946f8170f05e46d16099f3eef98d39d9&scene=21#wechat_redirect)
+    - [二叉树第三期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487527&idx=1&sn=9cf2b0d8608ba26ea7c6a5c9b41d05a1&chksm=9bd7ee2faca0673916bf075539bf6fc3c01f3dcc0b298b3f507047692ef5c850ed9cfe82e4e6&scene=21#wechat_redirect)
+    - [二叉搜索树第一期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247488101&idx=1&sn=6041ddda5f20ccde8a7036d3e3a1482c&chksm=9bd7ec6daca0657b2ab20a936437e2c8206384c3b1485fe91747ad796fa3a5b08556b2f4911e&scene=21#wechat_redirect)
+    - [二叉搜索树第二期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247488128&idx=2&sn=b8fb3fd2917f9ac86127054741cd5877&chksm=9bd7ec88aca0659ee0185b657663169169493e9df2063fa4d28b38a0b4d0dd698d0301937898&scene=21#wechat_redirect)
+    - [二叉搜索树第三期](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/bst3)
+    - [回溯算法（DFS）](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484709&idx=1&sn=1c24a5c41a5a255000532e83f38f2ce4&chksm=9bd7fb2daca0723be888b30345e2c5e64649fc31a00b05c27a0843f349e2dd9363338d0dac61&scene=21#wechat_redirect)
+    - [BFS算法](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485134&idx=1&sn=fd345f8a93dc4444bcc65c57bb46fc35&chksm=9bd7f8c6aca071d04c4d383f96f2b567ad44dc3e67d1c3926ec92d6a3bcc3273de138b36a0d9&scene=21#wechat_redirect)
+- 动态规划
 
 ## 🎮 操作系统
 
@@ -45,13 +65,18 @@
 - [进程通信的方式](https://mp.weixin.qq.com/s/kxxV_yy5eesHiHHLPO0mWg)
 - [进程同步机制](https://mp.weixin.qq.com/s/vvjhbzsWQNRkU7-b_dURlQ)
 - [进程调度算法](https://mp.weixin.qq.com/s/CEntVZvo_f3VPw5-mjxbqw)
-- [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
-- [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
-- [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
 - 进程、线程的区别
+- 进程的几种状态
+- [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
+- [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
+- [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
 - 死锁详解
+- 内存页面置换算法
 - 用户态和核心态的区别
 - 内存管理，虚拟内存
+- 逻辑地址和物理地址
+- 生产者消费者问题
+- 银行家算法
 
 **Linux**
 
@@ -61,32 +86,33 @@
 
 ## 🎨 网络 
 
-- [计算机网络](https://blog.csdn.net/weixin_46156200/category_10731223.html?spm=1001.2014.3001.5482)
-- [IP协议详解](https://mp.weixin.qq.com/s/NO9RDt1A3T1rz-Q4_Y0gPw)
-- [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/u56NcMs68sgi6uDpzJ61yw)
-- [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
-- [TCP保证可靠传输的机制](https://mp.weixin.qq.com/s/AwdxuP5nJSnkyvXRKnqdOg)
-- [Tcp和udp区别](https://juejin.cn/post/6857707137797292046)
-- [ARP协议详解](https://mp.weixin.qq.com/s/HkcMdiZbfsV52IW7xhfdqg)
-- [DNS协议详解](https://mp.weixin.qq.com/s/AfVqL7lEsbRE-YLOPZ4gDQ)
-- [DNS协议使用UDP吗](https://mp.weixin.qq.com/s/3QieSeqbuU2fmqYRqj6GaQ)
+- [博文](https://blog.csdn.net/weixin_46156200/category_10731223.html?spm=1001.2014.3001.5482)
 - [HTTP协议详解](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
 - [HTTPS协议详解](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
-- [ICMP详解](https://mp.weixin.qq.com/s/3SujLofRpxA2RfLljFbW1Q)
-- [长连接和短连接](https://www.cnblogs.com/0201zcr/p/4694945.html)
-- [Cookie和session的区别](https://www.cnblogs.com/ityouknow/p/10856177.html)
 - [典型的HTTP攻击手段](https://www.hollischuang.com/archives/2101)
+- [DNS协议详解](https://mp.weixin.qq.com/s/AfVqL7lEsbRE-YLOPZ4gDQ)
+- [DNS协议使用UDP吗](https://mp.weixin.qq.com/s/3QieSeqbuU2fmqYRqj6GaQ)
+- [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/u56NcMs68sgi6uDpzJ61yw)
+- [TCP保证可靠传输的机制](https://mp.weixin.qq.com/s/AwdxuP5nJSnkyvXRKnqdOg)
+- [TCP和UDP区别](https://juejin.cn/post/6857707137797292046)
+- [IP协议详解](https://mp.weixin.qq.com/s/NO9RDt1A3T1rz-Q4_Y0gPw)
+- [ARP协议详解](https://mp.weixin.qq.com/s/HkcMdiZbfsV52IW7xhfdqg)
+- [ICMP详解](https://mp.weixin.qq.com/s/3SujLofRpxA2RfLljFbW1Q)
 - [粘包和拆包](https://www.cnblogs.com/wade-luffy/p/6165671.html)
 - [ping的原理](https://www.cnblogs.com/xiaolincoding/p/12571184.html)
+- [长连接和短连接](https://www.cnblogs.com/0201zcr/p/4694945.html)
+- [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
+- [Cookie和session的区别](https://www.cnblogs.com/ityouknow/p/10856177.html)
 - [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
 - HTTP  1.0  1.1  2.1 的区别
 - HTTP常见的状态码
+- URI 和 RUL 的区别
 
 ## 📑 数据库
 
 **MySQL**
 
-- [Mysql底层数据结构，b树和b+树的区别 ，聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
+- [聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
 - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
 - [索引在哪种情况下会失效](https://bbs.huaweicloud.com/blogs/244749)
 - [最左原则?联合索引?](https://blog.csdn.net/u013568373/article/details/93891531#:~:text=%E6%9C%80%E5%B7%A6%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99%E7%9A%84%E6%88%90%E5%9B%A0%20MySQL,%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%EF%BC%8C%E5%AE%83%E4%BC%9A%20%E9%A6%96%E5%85%88%E6%A0%B9%E6%8D%AE%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E3%80%81%E4%B9%9F%E5%B0%B1%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E5%86%8D%E5%AF%B9%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%20%E3%80%82)
@@ -103,18 +129,26 @@
 - MySQL慢查询
 - 什么是sql注入，如何防止sql注入？
 - sql优化和索引优化
+- 一条SQL语句的执行过程
+- MySQL的缓存
 
 **Reids**
 
 - Redis底层数据结构
 - 淘汰过期键的策略
+- 内存淘汰机制
+- Redis持久化
 - 缓存穿透 缓存雪崩 如何避免 
-- redis单线程模型
+- Redis事务
+- Redis单线程模型
 - 为什么 Redis 这么快
 - 布隆过滤器
 - 保证数据库和缓存的一致性
 - Redis如何实现分布式锁，及其原理
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
+- Redis和Memcached的区别
+- Redis发布订阅
+- Redis集群和主从复制
 
 **RabbitMQ**
 
@@ -129,19 +163,22 @@
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
 - String、StringBuilder、StringBuffer区别
 - hash冲突和冲突处理
+- Object类中有哪些方法
 
 **集合**
 
 - [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 - [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
+- HashTable 详解
+- TreeSet详解
 
 **并发**
 
 - Java线程创建的方式
-
+- 线程的生命周期和状态
+- JMM详解
 - [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
-
 - [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
 - [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
 - [AQS的实现原理](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
@@ -165,6 +202,8 @@
 - CMS和G1的区别
 - 哪些东西可以作为GC Roots
 - 内存泄露和内存溢出
+- Java运行时数据区
+- 强引用、软引用、弱引用、虚引用
 
 **IO**
 
@@ -175,9 +214,10 @@
 
 **Spring**
 
-- spring 事务传播机制
+- Spring 事务传播机制
 - IOC和AOP原理
-- spring bean的生命周期
+- Spring bean的生命周期
+- Spring 中用到的设计模式
 
 **SpringMVC**
 
@@ -186,11 +226,32 @@
 **Mybatis**
 
 - mybatis缓存
+- #{} 和 ${}的区别
+- Mybatis如何进行分页的
+- Mybatis的动态SQL
+- Mybatis半自动和全自动的区别
 
 **Spring Boot**
 
 - Spring Boot 启动流程
+- @SpringBootApplication注解
 - 自动装配原理
+
+**Netty**
+
+- 从BIO、NIO到Netty
+
+## 🔮微服务
+
+**SpringCloud**
+
+- 网关
+- 注册中心
+- RPC框架
+- 熔断、降级
+- 负载均衡、限流
+
+**SpringCloudAlibaba**
 
 ## 👷 系统设计 
 
@@ -214,8 +275,8 @@
 
 ## 🔨 工具 
 
-- Git
-- Docker
+- [Git](https://www.pdai.tech/md/devops/tool/tool-git.html)
+- [Docker](https://www.pdai.tech/md/devops/docker/docker-00-overview.html)
 
 ## 📞 后记
 **公众号**
