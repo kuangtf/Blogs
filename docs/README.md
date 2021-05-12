@@ -129,7 +129,7 @@
 - MySQL慢查询
 - 什么是sql注入，如何防止sql注入？
 - sql优化和索引优化
-- 一条SQL语句的执行过程
+- [一条SQL语句的执行过程](https://www.pdai.tech/md/db/sql-mysql/sql-mysql-execute.html)
 - MySQL的缓存
 
 **Reids**
@@ -137,18 +137,20 @@
 - Redis底层数据结构
 - 淘汰过期键的策略
 - 内存淘汰机制
-- Redis持久化
-- 缓存穿透 缓存雪崩 如何避免 
-- Redis事务
+- [Redis持久化](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/8-Redis%E6%8C%81%E4%B9%85%E5%8C%96)
+- [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
+- [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
 - Redis单线程模型
 - 为什么 Redis 这么快
 - 布隆过滤器
+- [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
 - 保证数据库和缓存的一致性
 - Redis如何实现分布式锁，及其原理
+- [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 - Redis和Memcached的区别
-- Redis发布订阅
-- Redis集群和主从复制
+- [Redis发布订阅](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/9-Redis%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85)
+- [Redis集群和主从复制](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/10-Redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
 
 **RabbitMQ**
 
@@ -161,16 +163,17 @@
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
 - [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
-- String、StringBuilder、StringBuffer区别
-- hash冲突和冲突处理
+- [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
 - Object类中有哪些方法
+- Java泛型详解
+- Java中的包装类
 
 **集合**
 
 - [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 - [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
-- HashTable 详解
+- HashTable ， HashSet详解
 - TreeSet详解
 
 **并发**
@@ -241,7 +244,15 @@
 
 - 从BIO、NIO到Netty
 
-## 🔮微服务
+**Dubbo**
+
+- 原理
+
+**zookeeper**
+
+- 原理
+
+## 🔮 微服务
 
 **SpringCloud**
 
@@ -266,8 +277,14 @@
 
 **设计模式**
 
-- 单例模式
-- 工厂模式
+- [创建型模式](https://www.pdai.tech/md/dev-spec/pattern/2_singleton.html)
+- [结构型模式](https://www.pdai.tech/md/dev-spec/pattern/8_facade.html)
+- [行为型模式](https://www.pdai.tech/md/dev-spec/pattern/15_chain.html)
+
+**设计原则**
+
+- [SOLID原则](https://www.pdai.tech/md/dev-spec/spec/dev-th-solid.html)
+- [CAP理论](https://www.pdai.tech/md/dev-spec/spec/dev-th-cap.html)
 
 **面向对象思想**
 
@@ -277,6 +294,7 @@
 
 - [Git](https://www.pdai.tech/md/devops/tool/tool-git.html)
 - [Docker](https://www.pdai.tech/md/devops/docker/docker-00-overview.html)
+- [正则表达式](https://www.pdai.tech/md/develop/regex/dev-regex-all.html)
 
 ## 📞 后记
 **公众号**
