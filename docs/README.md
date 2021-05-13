@@ -18,7 +18,7 @@
 
 💡 **「关于」**
 
-- 🎓 博主渣渣一个，旨在用于记录学习过程中的所思所想，并力图构建一个完善的知识体系!
+- 🎓 博主渣渣一个，旨在用于记录学习过程中的所思所想，并力图构建一个完善的Java后端知识体系!
 
 - 🙏 由于本人水平有限，仓库中的知识点来自本人原创、视频、书籍、博客等，非原创均已标明出处（或在参考资料中列出），如有遗漏或发现文章错误及排版问题，请提 issue 或 PR！
 
@@ -131,6 +131,7 @@
 - sql优化和索引优化
 - [一条SQL语句的执行过程](https://www.pdai.tech/md/db/sql-mysql/sql-mysql-execute.html)
 - MySQL的缓存
+- redo log、undo log、bin log 
 
 **Reids**
 
@@ -165,22 +166,23 @@
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
 - Object类中有哪些方法
-- Java泛型详解
-- Java中的包装类
+- [Java泛型详解](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
+- [Java中的包装类](https://mp.weixin.qq.com/s/qmlNXlPj4gPeVvLOdYLbUA)
 
 **集合**
 
 - [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 - [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
-- HashTable ， HashSet详解
-- TreeSet详解
+- HashTable ， HashSet，TreeSet详解
 
 **并发**
 
 - Java线程创建的方式
 - 线程的生命周期和状态
 - JMM详解
+- [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
+- [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 - [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
 - [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
 - [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
@@ -193,6 +195,10 @@
 - [CountDownLatch详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
 - [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
 - [ThreadPoolExecutor详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html)
+- [CopyOnWriteArrayList](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-CopyOnWriteArrayList.html)
+- [ReentrantReadWriteLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantReadWriteLock.html)
+- [FutureTask](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-FutureTask.html)
+- [Fork/Join](Fork/Join)
 
 **JVM**
 
@@ -211,7 +217,9 @@
 **IO**
 
 - select、poll、epoll的区别
-- IO多路复用详解
+- NIO - IO多路复用详解
+- Java AIO
+- NIO - 零拷贝
 
 ## 🔥 必备框架
 
