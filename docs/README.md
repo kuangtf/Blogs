@@ -136,8 +136,8 @@
 **Reids**
 
 - Redis底层数据结构
-- 淘汰过期键的策略
-- 内存淘汰机制
+- [淘汰过期键的策略]()
+- [内存淘汰机制](https://zhuanlan.zhihu.com/p/355322772)
 - [Redis持久化](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/8-Redis%E6%8C%81%E4%B9%85%E5%8C%96)
 - [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
 - [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
@@ -162,7 +162,8 @@
 **Java 基础**
 
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
-- [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
+- [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
+- [动态代理](https://mp.weixin.qq.com/s/HI32MA5lsyzgMnqJQi4F6A)
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
 - Object类中有哪些方法
@@ -181,6 +182,7 @@
 - Java线程创建的方式
 - 线程的生命周期和状态
 - JMM详解
+- AtomicInteger保证线程安全的机制
 - [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
 - [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 - [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
@@ -190,7 +192,7 @@
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [java线程池](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
-- [CAS](https://www.jianshu.com/p/eac466494477) 
+- [CAS](https://blog.csdn.net/ls5718/article/details/52563959) 
 - [Semaphore详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
 - [CountDownLatch详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
 - [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
