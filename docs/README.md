@@ -35,6 +35,9 @@
 
 **算法**
 
+- [排序算法](algorithm/排序算法)
+- [算法模板](algorithm/算法模板)
+
 - [十大排序算法](https://www.iamshuaidi.com/312.html)
 - 数组：
     - [二分查找](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484598&idx=1&sn=69edaf4a7f6bfd0b1185cae5d0689c1d&chksm=9bd7fabeaca073a8820bc93cb67a8e26fa9eaa1ab9717b7e3ac41b4aac12235067c8af3520d5&scene=21#wechat_redirect)
