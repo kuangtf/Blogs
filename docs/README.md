@@ -37,8 +37,20 @@
 
 - [排序算法](algorithm/排序算法.md)
 - [算法模板](algorithm/算法模板.md)
+- [算法题](algorithm/算法题.md)
+- [动态规划](algorithm/dp.md)
+- [基础课](https://www.acwing.com/activity/content/20/)
+- [剑指Offer](https://www.acwing.com/activity/content/punch_the_clock/5/)
+- [LeetCode打卡](https://www.acwing.com/activity/content/12/)
 
-- [基础课](algorithm/基础课.html)
+**资源**
+
+- [AcWing](https://www.acwing.com/problem/)
+- [LeetCode](https://leetcode-cn.com/problemset/all/)
+- [洛谷](https://www.luogu.com.cn/problem/list)
+- [信息学奥赛](http://ybt.ssoier.cn:8088/index.php)
+- [OpenJudge](http://noi.openjudge.cn/)
+- [算法小抄](https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA)
 
 ## 🎮 操作系统
 
