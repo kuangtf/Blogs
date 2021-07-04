@@ -1,9 +1,39 @@
+```html
+<style>
+    h2
+    {
+      margin-bottom:50px;
+      font-size: 1em;
+    }
+    h2 span{
+      display:inline-block;
+      background: rgb(102, 126, 233);
+      color:#ffffff !important;
+      padding:  10px  16px;
+      border-radius:5px;
+      box-shadow: 2px 2px 5px rgb(216, 216, 216);
+
+    }
+/* .content{
+  width:1000px;
+  margin: 0 auto;
+  padding-top: 30px;
+} */
+.markdown-section{
+  padding: 30px 30px 40px 30px !important;
+}
+</style>
+```
+
+
+
+
+
 <br>
 
 <p align="center">
     <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/theam.jpg" >
 </p>
-
 </br>
 <br>
 
@@ -18,11 +48,13 @@
 
 💡 **「关于」**
 
-- 🎓 博主渣渣一个，旨在用于记录学习过程中的所思所想，并力图构建一个完善的Java后端知识体系!
-
-- 🙏 由于本人水平有限，仓库中的知识点来自本人原创、视频、书籍、博客等，非原创均已标明出处（或在参考资料中列出），如有遗漏或发现文章错误及排版问题，请提 issue 或 PR！
-
-- 🔮 [Github 在线阅读](https://kuangtf.github.io/Blogs/#/README.md) | [Github 仓库地址](https://github.com/kuangtf/Blogs)
+- 🎓 博主渣渣一个，这是博主的学习记录笔记。
+- 🙏 本博客基本上是博主的学习记录，不用于商用。
+- 🔮  [Github 仓库地址](https://github.com/kuangtf/Blogs)
+- 常用学习网站：
+    - [CS-Wiki](https://veal98.gitee.io/cs-wiki/#/README)
+    - [Java全栈](https://www.pdai.tech/md/outline/x-outline.html#%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88)
+    - [CS-Notes](http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
 
 ## 🤖 算法
 
