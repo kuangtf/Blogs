@@ -247,6 +247,7 @@
 - IOC和AOP原理
 - Spring bean的生命周期
 - Spring 中用到的设计模式
+- spring怎么解决循环依赖
 
 **SpringMVC**
 
