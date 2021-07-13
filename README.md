@@ -1,12 +1,9 @@
-<br>
+
 
 <p align="center">
     <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/theam.jpg" >
 </p>
-
-</br>
 <br>
-
 
 |          算法          |         操作系统          |        网络&nbsp;        |          数据库          |          Java          |          必备框架          | 微服务                   |          系统设计           |          面向对象          |      &nbsp;工具       | 后记                   |
 | :--------------------: | :-----------------------: | :----------------------: | :----------------------: | :--------------------: | :------------------------: | ------------------------ | :-------------------------: | :------------------------: | :-------------------: | ---------------------- |
@@ -18,11 +15,13 @@
 
 💡 **「关于」**
 
-- 🎓 博主渣渣一个，旨在用于记录学习过程中的所思所想，并力图构建一个完善的Java后端知识体系!
-
-- 🙏 由于本人水平有限，仓库中的知识点来自本人原创、视频、书籍、博客等，非原创均已标明出处（或在参考资料中列出），如有遗漏或发现文章错误及排版问题，请提 issue 或 PR！
-
-- 🔮 [Github 在线阅读](https://kuangtf.github.io/Blogs/#/README.md) | [Github 仓库地址](https://github.com/kuangtf/Blogs)
+- 🎓 博主渣渣一个，这是博主的学习记录笔记。
+- 🙏 本博客基本上是博主的学习记录，不用于商用。
+- 🔮  [Github 仓库地址](https://github.com/kuangtf/Blogs)
+- 常用学习网站：
+    - [CS-Wiki](https://veal98.gitee.io/cs-wiki/#/README)
+    - [Java全栈](https://www.pdai.tech/md/outline/x-outline.html#%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88)
+    - [CS-Notes](http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
 
 ## 🤖 算法
 
@@ -35,28 +34,22 @@
 
 **算法**
 
-- [十大排序算法](https://www.iamshuaidi.com/312.html)
-- 数组：
-    - [二分查找](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484598&idx=1&sn=69edaf4a7f6bfd0b1185cae5d0689c1d&chksm=9bd7fabeaca073a8820bc93cb67a8e26fa9eaa1ab9717b7e3ac41b4aac12235067c8af3520d5&scene=21#wechat_redirect)
-    - [双指针](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484505&idx=1&sn=0e9517f7c4021df0e6146c6b2b0c4aba&chksm=9bd7fa51aca07347009c591c403b3228f41617806429e738165bd58d60220bf8f15f92ff8a2e&scene=21#wechat_redirect)
-    - [滑动窗口](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485141&idx=1&sn=0e4583ad935e76e9a3f6793792e60734&chksm=9bd7f8ddaca071cbb7570b2433290e5e2628d20473022a5517271de6d6e50783961bebc3dd3b&scene=21#wechat_redirect)
-- 链表：
-    - [反转链表的一部分](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484467&idx=1&sn=beb3ae89993b812eeaa6bbdeda63c494&chksm=9bd7fa3baca0732dc3f9ae9202ecaf5c925b4048514eeca6ac81bc340930a82fc62bb67681fa&scene=21#wechat_redirect)
-    - [K个一组反转链表](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484597&idx=1&sn=c603f1752e33cb2701e371d84254aee2&chksm=9bd7fabdaca073abd512d8fff18016c9092ede45fed65c307852c65a2026d8568ee294563c78&scene=21#wechat_redirect)
-    - [回文链表](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484822&idx=1&sn=44742c9a3557038c8da7150100d94db9&chksm=9bd7fb9eaca0728876e1146306a09f5453bcd5c35c4a264304ea6189faa83ec12a00322f0246&scene=21#wechat_redirect)
-- 栈和队列：
-    - [队列实现栈](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484567&idx=1&sn=e70930648967a0e4cbf0f594bc9f059d&chksm=9bd7fa9faca073899f031d8a2cfff6ab31c9a007f2f5503bcac36a91f3fe6a0a8a6926c2b961&scene=21#wechat_redirect)
-    - [栈实现队列](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484567&idx=1&sn=e70930648967a0e4cbf0f594bc9f059d&chksm=9bd7fa9faca073899f031d8a2cfff6ab31c9a007f2f5503bcac36a91f3fe6a0a8a6926c2b961&scene=21#wechat_redirect)
-- 二叉树：
-    - [二叉树第一期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487126&idx=1&sn=4de13e66397bc35970963c5a1330ce18&chksm=9bd7f09eaca0798853c41fba05ad5fa958b31054eba18b69c785ae92f4bd8e4cc7a2179d7838&scene=21#wechat_redirect)
-    - [二叉树第二期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487270&idx=1&sn=2f7ad74aabc88b53d94012ceccbe51be&chksm=9bd7f12eaca078384733168971147866c140496cb257946f8170f05e46d16099f3eef98d39d9&scene=21#wechat_redirect)
-    - [二叉树第三期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247487527&idx=1&sn=9cf2b0d8608ba26ea7c6a5c9b41d05a1&chksm=9bd7ee2faca0673916bf075539bf6fc3c01f3dcc0b298b3f507047692ef5c850ed9cfe82e4e6&scene=21#wechat_redirect)
-    - [二叉搜索树第一期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247488101&idx=1&sn=6041ddda5f20ccde8a7036d3e3a1482c&chksm=9bd7ec6daca0657b2ab20a936437e2c8206384c3b1485fe91747ad796fa3a5b08556b2f4911e&scene=21#wechat_redirect)
-    - [二叉搜索树第二期](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247488128&idx=2&sn=b8fb3fd2917f9ac86127054741cd5877&chksm=9bd7ec88aca0659ee0185b657663169169493e9df2063fa4d28b38a0b4d0dd698d0301937898&scene=21#wechat_redirect)
-    - [二叉搜索树第三期](https://labuladong.gitbook.io/algo/mu-lu-ye-1/mu-lu-ye-1/bst3)
-    - [回溯算法（DFS）](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247484709&idx=1&sn=1c24a5c41a5a255000532e83f38f2ce4&chksm=9bd7fb2daca0723be888b30345e2c5e64649fc31a00b05c27a0843f349e2dd9363338d0dac61&scene=21#wechat_redirect)
-    - [BFS算法](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247485134&idx=1&sn=fd345f8a93dc4444bcc65c57bb46fc35&chksm=9bd7f8c6aca071d04c4d383f96f2b567ad44dc3e67d1c3926ec92d6a3bcc3273de138b36a0d9&scene=21#wechat_redirect)
-- 动态规划
+- [排序算法](algorithm/排序算法.md)
+- [算法模板](algorithm/算法模板.md)
+- [算法题](algorithm/算法题.md)
+- [动态规划](algorithm/dp.md)
+- [基础课](https://www.acwing.com/activity/content/20/)
+- [剑指Offer](https://www.acwing.com/activity/content/punch_the_clock/5/)
+- [LeetCode打卡](https://www.acwing.com/activity/content/12/)
+
+**资源**
+
+- [AcWing](https://www.acwing.com/problem/)
+- [LeetCode](https://leetcode-cn.com/problemset/all/)
+- [洛谷](https://www.luogu.com.cn/problem/list)
+- [信息学奥赛](http://ybt.ssoier.cn:8088/index.php)
+- [OpenJudge](http://noi.openjudge.cn/)
+- [算法小抄](https://mp.weixin.qq.com/s/AWsL7G89RtaHyHjRPNJENA)
 
 ## 🎮 操作系统
 
@@ -136,8 +129,8 @@
 **Reids**
 
 - Redis底层数据结构
-- 淘汰过期键的策略
-- 内存淘汰机制
+- [淘汰过期键的策略]()
+- [内存淘汰机制](https://zhuanlan.zhihu.com/p/355322772)
 - [Redis持久化](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/8-Redis%E6%8C%81%E4%B9%85%E5%8C%96)
 - [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
 - [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
@@ -162,12 +155,22 @@
 **Java 基础**
 
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
-- [动态代理和反射](https://bbs.huaweicloud.com/blogs/195516)
+
+- [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
+
+- [动态代理](https://mp.weixin.qq.com/s/HI32MA5lsyzgMnqJQi4F6A)
+
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
+
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
+
 - Object类中有哪些方法
+
 - [Java泛型详解](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
+
 - [Java中的包装类](https://mp.weixin.qq.com/s/qmlNXlPj4gPeVvLOdYLbUA)
+
+- [Comparable和Comparator]()
 
 **集合**
 
@@ -181,6 +184,7 @@
 - Java线程创建的方式
 - 线程的生命周期和状态
 - JMM详解
+- AtomicInteger保证线程安全的机制
 - [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
 - [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 - [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
@@ -190,7 +194,7 @@
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [java线程池](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
-- [CAS](https://www.jianshu.com/p/eac466494477) 
+- [CAS](https://blog.csdn.net/ls5718/article/details/52563959) 
 - [Semaphore详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
 - [CountDownLatch详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
 - [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
@@ -229,6 +233,7 @@
 - IOC和AOP原理
 - Spring bean的生命周期
 - Spring 中用到的设计模式
+- spring怎么解决循环依赖
 
 **SpringMVC**
 

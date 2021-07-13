@@ -178,13 +178,22 @@
 **Java 基础**
 
 - [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
+
 - [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
+
 - [动态代理](https://mp.weixin.qq.com/s/HI32MA5lsyzgMnqJQi4F6A)
+
 - [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
+
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
+
 - Object类中有哪些方法
+
 - [Java泛型详解](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
+
 - [Java中的包装类](https://mp.weixin.qq.com/s/qmlNXlPj4gPeVvLOdYLbUA)
+
+- [Comparable和Comparator]()
 
 **集合**
 
