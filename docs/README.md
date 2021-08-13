@@ -69,32 +69,31 @@
 
 #### 操作系统
 
-- [ ] 基础
+- 基础
+    - 用户态和核心态的区别
 
-- 用户态和核心态的区别
-
-- [ ] 进程
-
-- [进程通信的方式](https://mp.weixin.qq.com/s/kxxV_yy5eesHiHHLPO0mWg)
-- [进程同步机制](https://mp.weixin.qq.com/s/vvjhbzsWQNRkU7-b_dURlQ)
-- [进程调度算法](https://mp.weixin.qq.com/s/CEntVZvo_f3VPw5-mjxbqw)
-- 进程、线程的区别
-- 进程的几种状态
-- [什么是用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
-- [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
-- 银行家算法
-- 生产者消费者问题
-- 死锁
-
-- [ ] 内存
-- 内存页面置换算法
-- 内存管理，虚拟内存
-- 逻辑地址和物理地址
-- [ ] 文件
-
-- [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
-
-- [ ] IO
+- 进程
+    - [进程通信的方式](https://mp.weixin.qq.com/s/kxxV_yy5eesHiHHLPO0mWg)
+    - [进程同步机制](https://mp.weixin.qq.com/s/vvjhbzsWQNRkU7-b_dURlQ)
+    - [进程调度算法](https://mp.weixin.qq.com/s/CEntVZvo_f3VPw5-mjxbqw)
+    - 进程、线程的区别
+    - 进程的几种状态
+    - [用户线程和守护线程](https://www.jianshu.com/p/b51da027bfe1)
+    - [孤儿进程和僵尸进程](https://www.cnblogs.com/anker/p/3271773.html)
+    - 银行家算法
+    - 生产者消费者问题
+    - 死锁
+- 内存
+    - 内存页面置换算法
+    - 内存管理，虚拟内存
+    - 逻辑地址和物理地址
+- 文件
+    - [磁盘的寻道算法](https://blog.csdn.net/weixin_46156200/article/details/114084146)
+- IO
+    - select、poll、epoll的区别
+    - NIO - IO多路复用详解
+    - Java AIO
+    - NIO - 零拷贝
 
 #### Linux
 
@@ -104,78 +103,63 @@
 
 ## 🎨 网络 
 
-- [ ] 应用层
-
-- [HTTP协议详解](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
-- [HTTPS协议详解](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
-- [典型的HTTP攻击手段](https://www.hollischuang.com/archives/2101)
-- [DNS协议详解](https://mp.weixin.qq.com/s/AfVqL7lEsbRE-YLOPZ4gDQ)
-- [DNS协议使用UDP吗](https://mp.weixin.qq.com/s/3QieSeqbuU2fmqYRqj6GaQ)
-- HTTP  1.0  1.1  2.1 的区别
-- HTTP常见的状态码
-
-- [ ] 传输层
-
-- [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/u56NcMs68sgi6uDpzJ61yw)
-- [TCP保证可靠传输的机制](https://mp.weixin.qq.com/s/AwdxuP5nJSnkyvXRKnqdOg)
-- [TCP和UDP区别](https://juejin.cn/post/6857707137797292046)
-
-- [ ] 网络层
-
-- [IP协议详解](https://mp.weixin.qq.com/s/NO9RDt1A3T1rz-Q4_Y0gPw)
-- [ARP协议详解](https://mp.weixin.qq.com/s/HkcMdiZbfsV52IW7xhfdqg)
-- [ICMP详解](https://mp.weixin.qq.com/s/3SujLofRpxA2RfLljFbW1Q)
-- [粘包和拆包](https://www.cnblogs.com/wade-luffy/p/6165671.html)
-- [ping的原理](https://www.cnblogs.com/xiaolincoding/p/12571184.html)
-
-- [ ] 其他
-
-- [长连接和短连接](https://www.cnblogs.com/0201zcr/p/4694945.html)
-- [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
-- [Cookie和session的区别](https://www.cnblogs.com/ityouknow/p/10856177.html)
-- [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
-- URI 和 RUL 的区别
-- 常用的网络攻击技术
+- 应用层
+    - [HTTP](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
+    - [HTTPS](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
+    - [典型的HTTP攻击手段](https://www.hollischuang.com/archives/2101)
+    - HTTP  1.0  1.1  2.1 的区别
+    - HTTP常见的状态码
+    - [DNS协议详解](https://mp.weixin.qq.com/s/AfVqL7lEsbRE-YLOPZ4gDQ)
+    - [DNS协议使用UDP吗](https://mp.weixin.qq.com/s/3QieSeqbuU2fmqYRqj6GaQ)
+- 传输层
+    - [TCP三次握手和四次挥手](https://mp.weixin.qq.com/s/u56NcMs68sgi6uDpzJ61yw)
+    - [TCP保证可靠传输的机制](https://mp.weixin.qq.com/s/AwdxuP5nJSnkyvXRKnqdOg)
+    - [TCP和UDP区别](https://juejin.cn/post/6857707137797292046)
+- 网络层
+    - [IP协议详解](https://mp.weixin.qq.com/s/NO9RDt1A3T1rz-Q4_Y0gPw)
+    - [ARP协议详解](https://mp.weixin.qq.com/s/HkcMdiZbfsV52IW7xhfdqg)
+    - [ICMP详解](https://mp.weixin.qq.com/s/3SujLofRpxA2RfLljFbW1Q)
+    - [粘包和拆包](https://www.cnblogs.com/wade-luffy/p/6165671.html)
+    - [ping的原理](https://www.cnblogs.com/xiaolincoding/p/12571184.html)
+- 其他
+    - [长连接和短连接](https://www.cnblogs.com/0201zcr/p/4694945.html)
+    - [get与post请求的区别](https://www.huaweicloud.com/articles/5c532839eeb5e1cd4665f48b0a581eb3.html)
+    - [Cookie和session的区别](https://www.cnblogs.com/ityouknow/p/10856177.html)
+    - [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
+    - URI 和 RUL 的区别
+    - 常用的网络攻击技术
 
 ## 📑 数据库
 
 #### MySQL
 
-- [ ] 索引
-
-- [聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
-- [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
-- [索引在哪种情况下会失效](https://bbs.huaweicloud.com/blogs/244749)
-- [最左原则?联合索引?](https://blog.csdn.net/u013568373/article/details/93891531#:~:text=%E6%9C%80%E5%B7%A6%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99%E7%9A%84%E6%88%90%E5%9B%A0%20MySQL,%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%EF%BC%8C%E5%AE%83%E4%BC%9A%20%E9%A6%96%E5%85%88%E6%A0%B9%E6%8D%AE%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E3%80%81%E4%B9%9F%E5%B0%B1%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E5%86%8D%E5%AF%B9%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%20%E3%80%82)
-- [分库解决了什么问题?分表解决了什么问题?](https://segmentfault.com/a/1190000023914691)
-- 可以说下数据库范式吗？
-
-- [ ] 事务
-
-- 数据库锁有哪些？
-- 数据库的乐观锁和悲观锁?
-- [MVVC](https://juejin.cn/post/6871046354018238472)
-- 分布式事务
-- 事务的ACID特性，隔离级别
-- [讲讲数据库表怎么设计的](https://blog.csdn.net/kw023781/article/details/103002794)
-- 数据库的主从复制和保证一致性
-- 事务的两阶段提交
-- MySQL慢查询
-- 什么是sql注入，如何防止sql注入？
-
-- [ ] 锁
-
-- sql优化和索引优化
-- [一条SQL语句的执行过程](https://www.pdai.tech/md/db/sql-mysql/sql-mysql-execute.html)
-- MySQL的缓存
-
-- [ ] 其他
-
-- redo log、undo log、bin log 
+- 索引
+    - [聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
+    - [索引在哪种情况下会失效](https://bbs.huaweicloud.com/blogs/244749)
+    - [最左原则?联合索引?](https://blog.csdn.net/u013568373/article/details/93891531#:~:text=%E6%9C%80%E5%B7%A6%E5%8C%B9%E9%85%8D%E5%8E%9F%E5%88%99%E7%9A%84%E6%88%90%E5%9B%A0%20MySQL,%E5%BB%BA%E7%AB%8B%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E7%9A%84%E8%A7%84%E5%88%99%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%EF%BC%8C%E5%AE%83%E4%BC%9A%20%E9%A6%96%E5%85%88%E6%A0%B9%E6%8D%AE%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E6%9C%80%E5%B7%A6%E8%BE%B9%E7%9A%84%E3%80%81%E4%B9%9F%E5%B0%B1%E6%98%AF%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E5%9C%A8%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%AD%97%E6%AE%B5%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9F%BA%E7%A1%80%E4%B8%8A%EF%BC%8C%E5%86%8D%E5%AF%B9%E8%81%94%E5%90%88%E7%B4%A2%E5%BC%95%E4%B8%AD%E5%90%8E%E9%9D%A2%E7%9A%84%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%AD%97%E6%AE%B5%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%BA%8F%EF%BC%8C%E4%BE%9D%E6%AD%A4%E7%B1%BB%E6%8E%A8%20%E3%80%82)
+- 事务
+    - 事务的ACID特性
+    - 事务的隔离级别
+    - 分布式事务
+    - 事务的两阶段提交
+- 锁
+    - 数据库锁有哪些？
+    - 数据库的乐观锁和悲观锁?
+    - [MVVC](https://juejin.cn/post/6871046354018238472)
+- 其他
+    - redo log、undo log、bin log 
+    - [一条SQL语句的执行过程](https://www.pdai.tech/md/db/sql-mysql/sql-mysql-execute.html)
+    - [分库解决了什么问题?分表解决了什么问题](https://segmentfault.com/a/1190000023914691)
+    - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
+    - 可以说下数据库范式吗
+    - MySQL的缓存
+    - sql优化和索引优化
+    - [讲讲数据库表怎么设计的](https://blog.csdn.net/kw023781/article/details/103002794)
+    - 数据库的主从复制和保证一致性
+    - MySQL慢查询
+    - 什么是sql注入，如何防止sql注入
 
 #### Reids
-
-- [ ] 数据结构
 
 - Redis底层数据结构
 - [淘汰过期键的策略]()
@@ -185,15 +169,11 @@
 - [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
 - Redis单线程模型
 
-- [ ] 集群
-
 - 为什么 Redis 这么快
 - 布隆过滤器
 - [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
 - 保证数据库和缓存的一致性
 - Redis如何实现分布式锁，及其原理
-
-- [ ] 其他
 
 - [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
@@ -201,7 +181,6 @@
 - [Redis发布订阅](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/9-Redis%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85)
 - [Redis集群和主从复制](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/10-Redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
 
-- 
 
 ## 🍵 Java
 
@@ -234,49 +213,37 @@
 
 #### 并发
 
-- Java线程创建的方式
-- 线程的生命周期和状态
-- JMM详解
-- AtomicInteger保证线程安全的机制
-- [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
-- [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
-- [volatile详解](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
-- [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
-- [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
-- [AQS的实现原理](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+- [Java线程创建的方式](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/60-%E6%9C%89%E7%82%B9%E6%94%B6%E8%8E%B7-%E4%B8%89%E7%A7%8D%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B)
+- [线程的生命周期和状态](https://www.processon.com/diagraming/60fbf1fd1efad46a20a398f7)
+- [JMM与原子性、可见性、有序性](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/40-%E8%B7%AC%E6%AD%A5%E5%8D%83%E9%87%8C-%E8%AF%A6%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%AD%90%E6%80%A7-%E5%8F%AF%E8%A7%81%E6%80%A7-%E6%9C%89%E5%BA%8F%E6%80%A7)
+- [Happens-before](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/50-JMM%E6%9C%80%E6%9C%80%E6%9C%80%E6%A0%B8%E5%BF%83%E7%9A%84%E6%A6%82%E5%BF%B5-Happens-before%E5%8E%9F%E5%88%99)
+- [volatile](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
-- [java线程池](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+- [AQS](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
+- [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
+- [ThreadPoolExecutor](https://tech.meituan.com/2020/04/02/java-pooling-pratice-in-meituan.html)
+- [ThreadLocal](https://zhuanlan.zhihu.com/p/34406557)
 - [CAS](https://blog.csdn.net/ls5718/article/details/52563959) 
-- [Semaphore详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
-- [CountDownLatch详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
-- [CyclicBarrier详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
-- [ThreadPoolExecutor详解](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-ThreadPoolExecutor.html)
-- [CopyOnWriteArrayList](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-CopyOnWriteArrayList.html)
-- [ReentrantReadWriteLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantReadWriteLock.html)
-- [FutureTask](https://www.pdai.tech/md/java/thread/java-thread-x-juc-executor-FutureTask.html)
-- [Fork/Join](Fork/Join)
+- [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
+- [Semaphore](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
+- [CountDownLatch](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-countdownlatch.html)
+- [CyclicBarrier](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
+- [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
 
 #### JVM
 
-- [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
-- [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
 - [类加载子系统](https://blog.csdn.net/weixin_46156200/article/details/112572301)
-- [堆详解](https://blog.csdn.net/weixin_46156200/article/details/112985882)
-- [虚拟机栈](https://blog.csdn.net/weixin_46156200/article/details/112827623)
 - 双亲委派机制
-- CMS和G1的区别
-- 哪些东西可以作为GC Roots
-- 内存泄露和内存溢出
 - Java运行时数据区
+- [堆](https://blog.csdn.net/weixin_46156200/article/details/112985882)
+- [虚拟机栈](https://blog.csdn.net/weixin_46156200/article/details/112827623)
+- 内存泄露和内存溢出
 - 强引用、软引用、弱引用、虚引用
-
-#### IO
-
-- select、poll、epoll的区别
-- NIO - IO多路复用详解
-- Java AIO
-- NIO - 零拷贝
+- [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
+- CMS和G1的区别
+- [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
+- 哪些东西可以作为GC Roots
 
 ## 🔥 必备框架
 
@@ -295,7 +262,7 @@
 
 #### Mybatis
 
-- mybatis缓存
+- [mybatis缓存](https://tech.meituan.com/2018/01/19/mybatis-cache.html)
 - #{} 和 ${}的区别
 - Mybatis如何进行分页的
 - Mybatis的动态SQL
@@ -311,13 +278,19 @@
 
 #### SpringCloud
 
-- 网关
-- 注册中心
-- RPC框架
-- 熔断、降级
-- 负载均衡、限流
+- 服务注册中心：Eureka
+- 服务调用：Feign、OpenFeign
+- 服务降级：Hystrix
+- 服务网关：Zuul、gateway
+- 服务配置：Config
+- 服务总线：Bus
 
 #### SpringCloudAlibaba
+
+- Nacos
+- Sentienl
+- Ribbon
+- Seata
 
 ## 👷  中间件
 
@@ -356,8 +329,8 @@
 
 ## 🏆项目
 
-- [ ] 开源考试项目
-- [ ] RPC项目
+- 开源考试项目
+- RPC项目
 
 ## 🔨 工具 
 
