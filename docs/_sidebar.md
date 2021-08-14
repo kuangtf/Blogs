@@ -9,7 +9,7 @@
     - [MySQL](README?id=MySQL)
     - [Reids](README?id=Reids)
 - [🍵 Java](README?id=🍵-Java)
-    - [Java基础](README?id=Java基础)
+    - [Java 基础](README?id=Java-基础)
     - [集合](README?id=集合)
     - [并发](README?id=并发)
     - [JVM](README?id=JVM)
