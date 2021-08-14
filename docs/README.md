@@ -274,6 +274,14 @@
 - @SpringBootApplication注解
 - 自动装配原理
 
+#### Netty
+
+- 从BIO、NIO到Netty
+
+#### Dubbo
+
+- 原理
+
 ## 🔮 微服务
 
 #### SpringCloud
@@ -293,14 +301,6 @@
 - Seata
 
 ## 👷  中间件
-
-#### Netty
-
-- 从BIO、NIO到Netty
-
-#### Dubbo
-
-- 原理
 
 #### zookeeper
 
