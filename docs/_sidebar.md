@@ -5,6 +5,8 @@
   - [操作系统](README?id=操作系统)
   - [Linux](README?id=Linux)
 - [🎨 网络](README?id=🎨-网络) 
+    - [计算机网络](README?id=计算机网络)
+    - [网络编程](README?id=网络编程)
 - [📑 数据库](README?id=📑-数据库)
     - [MySQL](README?id=MySQL)
     - [Reids](README?id=Reids)

@@ -103,6 +103,8 @@
 
 ## 🎨 网络 
 
+#### 计算机网络
+
 - 应用层
     - [HTTP](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
     - [HTTPS](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
@@ -128,6 +130,11 @@
     - [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
     - URI 和 RUL 的区别
     - 常用的网络攻击技术
+
+#### 网络编程
+
+- Socket编程
+- netty编程
 
 ## 📑 数据库
 
@@ -169,13 +176,11 @@
 - [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
 - [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
 - Redis单线程模型
-
 - 为什么 Redis 这么快
 - 布隆过滤器
 - [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
 - 保证数据库和缓存的一致性
 - Redis如何实现分布式锁，及其原理
-
 - [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 - Redis和Memcached的区别
