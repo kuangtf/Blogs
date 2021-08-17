@@ -217,7 +217,7 @@
 - [线程的生命周期和状态](https://www.processon.com/diagraming/60fbf1fd1efad46a20a398f7)
 - [JMM与原子性、可见性、有序性](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/40-%E8%B7%AC%E6%AD%A5%E5%8D%83%E9%87%8C-%E8%AF%A6%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%AD%90%E6%80%A7-%E5%8F%AF%E8%A7%81%E6%80%A7-%E6%9C%89%E5%BA%8F%E6%80%A7)
 - [Happens-before](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/50-JMM%E6%9C%80%E6%9C%80%E6%9C%80%E6%A0%B8%E5%BF%83%E7%9A%84%E6%A6%82%E5%BF%B5-Happens-before%E5%8E%9F%E5%88%99)
-- [volatile](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
+- [volatile](java/concurrent/volatile.md)
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [AQS](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
