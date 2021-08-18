@@ -103,6 +103,8 @@
 
 ## 🎨 网络 
 
+#### 计算机网络
+
 - 应用层
     - [HTTP](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
     - [HTTPS](https://mp.weixin.qq.com/s/NTZlUzu4R3xyWB5T6qWo9w)
@@ -128,6 +130,11 @@
     - [输入一个URL回车发生了什么](https://mp.weixin.qq.com/s/9vGRSkUNgRQWO6tVmUisOw)
     - URI 和 RUL 的区别
     - 常用的网络攻击技术
+
+#### 网络编程
+
+- Socket编程
+- netty编程
 
 ## 📑 数据库
 
@@ -158,6 +165,7 @@
     - 数据库的主从复制和保证一致性
     - MySQL慢查询
     - 什么是sql注入，如何防止sql注入
+    - Select * 的优化
 
 #### Reids
 
@@ -168,13 +176,11 @@
 - [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
 - [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
 - Redis单线程模型
-
 - 为什么 Redis 这么快
 - 布隆过滤器
 - [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
 - 保证数据库和缓存的一致性
 - Redis如何实现分布式锁，及其原理
-
 - [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 - Redis和Memcached的区别
@@ -186,23 +192,17 @@
 
 #### Java 基础
 
-- [解决hash冲突有哪些方法？](https://zhuanlan.zhihu.com/p/29520044)
-
+- [解决hash冲突的方法](https://zhuanlan.zhihu.com/p/29520044)
 - [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
-
 - [动态代理](https://mp.weixin.qq.com/s/HI32MA5lsyzgMnqJQi4F6A)
-
-- [CGLIB和JDK代理](https://www.cnblogs.com/carpenterlee/p/8241042.html)
-
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
-
 - Object类中有哪些方法
-
 - [Java泛型详解](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
-
 - [Java中的包装类](https://mp.weixin.qq.com/s/qmlNXlPj4gPeVvLOdYLbUA)
-
 - [Comparable和Comparator](https://www.cnblogs.com/skywang12345/p/3324788.html)
+- sleep和wait的区别
+- 为什么重写equals时要重写hashCode
+- Java多态如何实现
 
 #### 集合
 
@@ -217,7 +217,7 @@
 - [线程的生命周期和状态](https://www.processon.com/diagraming/60fbf1fd1efad46a20a398f7)
 - [JMM与原子性、可见性、有序性](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/40-%E8%B7%AC%E6%AD%A5%E5%8D%83%E9%87%8C-%E8%AF%A6%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%AD%90%E6%80%A7-%E5%8F%AF%E8%A7%81%E6%80%A7-%E6%9C%89%E5%BA%8F%E6%80%A7)
 - [Happens-before](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/50-JMM%E6%9C%80%E6%9C%80%E6%9C%80%E6%A0%B8%E5%BF%83%E7%9A%84%E6%A6%82%E5%BF%B5-Happens-before%E5%8E%9F%E5%88%99)
-- [volatile](https://www.pdai.tech/md/java/thread/java-thread-x-key-volatile.html)
+- [volatile](java/concurrent/volatile.md)
 - [synchronized](https://zhuanlan.zhihu.com/p/29866981)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [AQS](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
@@ -267,12 +267,21 @@
 - Mybatis如何进行分页的
 - Mybatis的动态SQL
 - Mybatis半自动和全自动的区别
+- mybatis事务
 
 #### Spring Boot
 
 - Spring Boot 启动流程
 - @SpringBootApplication注解
 - 自动装配原理
+
+#### Netty
+
+- 从BIO、NIO到Netty
+
+#### Dubbo
+
+- 原理
 
 ## 🔮 微服务
 
@@ -293,14 +302,6 @@
 - Seata
 
 ## 👷  中间件
-
-#### Netty
-
-- 从BIO、NIO到Netty
-
-#### Dubbo
-
-- 原理
 
 #### zookeeper
 
@@ -327,7 +328,7 @@
 
 - 面向对象的三大特征
 
-## 🏆项目
+## 🏆 项目
 
 - 开源考试项目
 - RPC项目
