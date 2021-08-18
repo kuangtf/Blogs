@@ -1,23 +1,3 @@
-<style>
-    h2
-    {
-      margin-bottom:50px;
-      font-size: 1em;
-    }
-    h2 span
-    {
-      display:inline-block;
-      background: rgb(102, 126, 233);
-      color:#ffffff !important;
-      padding:  10px  16px;
-      border-radius:5px;
-      box-shadow: 2px 2px 5px rgb(216, 216, 216);
-    }
-    .markdown-section
-    {
-  		padding: 30px 30px 40px 30px !important;
-		}
-</style>
 
 <br>
 
