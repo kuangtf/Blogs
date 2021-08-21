@@ -1,3 +1,23 @@
+<style>
+    h2
+    {
+      margin-bottom:50px;
+      font-size: 1em;
+    }
+    h2 span
+    {
+      display:inline-block;
+      background: rgb(102, 126, 233);
+      color:#ffffff !important;
+      padding:  10px  16px;
+      border-radius:5px;
+      box-shadow: 2px 2px 5px rgb(216, 216, 216);
+    }
+    .markdown-section
+    {
+  		padding: 30px 30px 40px 30px !important;
+		}
+</style>
 
 <br>
 
@@ -21,6 +41,7 @@
 - 🎓 博主渣渣一个，这是博主的学习记录笔记，不得用于商用。
 - 🔮  [Github 仓库地址](https://github.com/kuangtf/Blogs)
 - 常用学习网站：
+    - [Gitee](https://kuangtf.gitee.io/blogs/#/)
     - [CS-Wiki](https://veal98.gitee.io/cs-wiki/#/README)
     - [Java全栈](https://www.pdai.tech/md/outline/x-outline.html#%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88)
     - [CS-Notes](http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
@@ -30,14 +51,14 @@
 
 ## 🤖 算法
 
-#### 数据结构
+### 数据结构
 
 - [红黑树](https://www.jianshu.com/p/e136ec79235c)
 - [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
 - [手撸LRU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486428&idx=1&sn=3611a14535669ba3372c73e24121247c&chksm=9bd7f5d4aca07cc28c02c3411d0633fc12c94c2555c08cbfaa2ccd50cc2d25160fb23bccce7f&scene=21#wechat_redirect)
 - [手撸LFU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486545&idx=1&sn=315ebfafa82c0dd3bcd9197eb270a7b6&chksm=9bd7f259aca07b4f063778509b3803993bc0d6cdaff32c076a102547b0afb82a5eea6119ed1a&scene=21#wechat_redirect)
 
-#### 算法
+### 算法
 
 - [排序算法](algorithm/排序算法.md)
 - [算法模板](algorithm/算法模板.md)
@@ -47,7 +68,7 @@
 
 ## 🎮 操作系统
 
-#### 操作系统
+### 操作系统
 
 - 基础
     - 用户态和核心态的区别
@@ -75,7 +96,7 @@
     - Java AIO
     - NIO - 零拷贝
 
-#### Linux
+### Linux
 
 - [常用的Linux命令](https://juejin.cn/post/6844903930166509581)
 - Linux磁盘管理
@@ -83,7 +104,7 @@
 
 ## 🎨 网络 
 
-#### 计算机网络
+### 计算机网络
 
 - 应用层
     - [HTTP](https://mp.weixin.qq.com/s/98FtlAy0mAtf6tGplQMDqA)
@@ -111,14 +132,14 @@
     - URI 和 RUL 的区别
     - 常用的网络攻击技术
 
-#### 网络编程
+### 网络编程
 
 - Socket编程
 - netty编程
 
 ## 📑 数据库
 
-#### MySQL
+### MySQL
 
 - 索引
     - [聚簇索引和非聚簇索引的区别](https://www.huaweicloud.com/articles/ce5c6f4d1d60cf7f82f2db6e215555d3.html)
@@ -147,7 +168,7 @@
     - 什么是sql注入，如何防止sql注入
     - Select * 的优化
 
-#### Reids
+### Reids
 
 - Redis底层数据结构
 - [淘汰过期键的策略]()
@@ -170,7 +191,7 @@
 
 ## 🍵 Java
 
-#### Java 基础
+### Java 基础
 
 - [解决hash冲突的方法](https://zhuanlan.zhihu.com/p/29520044)
 - [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
@@ -184,21 +205,21 @@
 - 为什么重写equals时要重写hashCode
 - Java多态如何实现
 
-#### 集合
+### 集合
 
 - [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 - [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
 - HashTable ， HashSet，TreeSet详解
 
-#### 并发
+### 并发
 
 - [Java线程创建的方式](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/60-%E6%9C%89%E7%82%B9%E6%94%B6%E8%8E%B7-%E4%B8%89%E7%A7%8D%E5%9F%BA%E6%9C%AC%E6%96%B9%E6%B3%95%E5%88%9B%E5%BB%BA%E7%BA%BF%E7%A8%8B)
 - [线程的生命周期和状态](https://www.processon.com/diagraming/60fbf1fd1efad46a20a398f7)
 - [JMM与原子性、可见性、有序性](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/40-%E8%B7%AC%E6%AD%A5%E5%8D%83%E9%87%8C-%E8%AF%A6%E8%A7%A3Java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%AD%90%E6%80%A7-%E5%8F%AF%E8%A7%81%E6%80%A7-%E6%9C%89%E5%BA%8F%E6%80%A7)
 - [Happens-before](https://veal98.gitee.io/cs-wiki/#/Java/%E5%B9%B6%E5%8F%91/50-JMM%E6%9C%80%E6%9C%80%E6%9C%80%E6%A0%B8%E5%BF%83%E7%9A%84%E6%A6%82%E5%BF%B5-Happens-before%E5%8E%9F%E5%88%99)
 - [volatile](java/concurrent/volatile.md)
-- [synchronized](https://zhuanlan.zhihu.com/p/29866981)
+- [synchronized](java/concurrent/synchronized.md)
 - [ReentrantLock](https://www.pdai.tech/md/java/thread/java-thread-x-lock-ReentrantLock.html)
 - [AQS](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
@@ -211,7 +232,7 @@
 - [CyclicBarrier](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-cyclicbarrier.html)
 - [不得不说的Java“锁”事](https://tech.meituan.com/2018/11/15/java-lock.html)
 
-#### JVM
+### JVM
 
 - [类加载子系统](https://blog.csdn.net/weixin_46156200/article/details/112572301)
 - 双亲委派机制
@@ -227,7 +248,7 @@
 
 ## 🔥 必备框架
 
-#### Spring
+### Spring
 
 - Spring 事务传播机制
 - IOC和AOP原理
@@ -236,11 +257,11 @@
 - spring怎么解决循环依赖
 - beanFactory和Factory的区别
 
-#### SpringMVC
+### SpringMVC
 
 - SpringMVC的执行流程
 
-#### Mybatis
+### Mybatis
 
 - [mybatis缓存](https://tech.meituan.com/2018/01/19/mybatis-cache.html)
 - #{} 和 ${}的区别
@@ -249,23 +270,23 @@
 - Mybatis半自动和全自动的区别
 - mybatis事务
 
-#### Spring Boot
+### Spring Boot
 
 - Spring Boot 启动流程
 - @SpringBootApplication注解
 - 自动装配原理
 
-#### Netty
+### Netty
 
 - 从BIO、NIO到Netty
 
-#### Dubbo
+### Dubbo
 
 - 原理
 
 ## 🔮 微服务
 
-#### SpringCloud
+### SpringCloud
 
 - 服务注册中心：Eureka
 - 服务调用：Feign、OpenFeign
@@ -274,7 +295,7 @@
 - 服务配置：Config
 - 服务总线：Bus
 
-#### SpringCloudAlibaba
+### SpringCloudAlibaba
 
 - Nacos
 - Sentienl
@@ -283,28 +304,28 @@
 
 ## 👷  中间件
 
-#### zookeeper
+### zookeeper
 
 - 原理
 
-#### RabbitMQ
+### RabbitMQ
 
 - [RabbitMQ详解](https://blog.csdn.net/weixin_46156200/article/details/113729844)
 
 ## 🦄 系统设计
 
-#### 设计模式
+### 设计模式
 
 - [创建型模式](https://www.pdai.tech/md/dev-spec/pattern/2_singleton.html)
 - [结构型模式](https://www.pdai.tech/md/dev-spec/pattern/8_facade.html)
 - [行为型模式](https://www.pdai.tech/md/dev-spec/pattern/15_chain.html)
 
-#### 设计原则
+### 设计原则
 
 - [SOLID原则](https://www.pdai.tech/md/dev-spec/spec/dev-th-solid.html)
 - [CAP理论](https://www.pdai.tech/md/dev-spec/spec/dev-th-cap.html)
 
-#### 面向对象思想
+### 面向对象思想
 
 - 面向对象的三大特征
 

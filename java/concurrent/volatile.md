@@ -11,7 +11,7 @@
 
 ## volatile的作用
 
-#### 1、volatile保证可见性
+### 1、volatile保证可见性
 
 - 概念：volatile修饰的共享变量对所有线程总数可见的，也就是当一个线程修改了一个被volatile修饰共享变量的值，新值总是可以被其他线程立即得知。  
 
@@ -45,7 +45,7 @@
 
 <img src="https://gitee.com/kuangtf/blogImage/raw/master/img/MESI2.png" style="zoom: 90%;" />
 
-#### 2、volatile保证有序性
+### 2、volatile保证有序性
 
 - 概念：volatile 变量的内存有序性是基于内存屏障(Memory Barrier)实现。
 
@@ -90,7 +90,7 @@
 
 > 注意：上述volatile写和volatile读的内存屏障插入策略非常保守。在实际执行时，只要不改变 volatile写-读的内存语义，编译器可以根据具体情况省略不必要的屏障。  
 
-#### 3、volatile能保证原子性吗
+### 3、volatile能保证原子性吗
 
 - volatile不能保证完全的原子性，只能保证单次的读/写操作具有原子性。
 - 对volatile变量的单次读/写操作可以保证原子性的，如long和double类型变量，但是并不能保证i++这种操作的原子性，因为本质上i++是读、加一、写三次操作，volatile并不能保证这三次操作的原子性。
