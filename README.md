@@ -190,6 +190,7 @@
 - Redis和Memcached的区别
 - [Redis发布订阅](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/9-Redis%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85)
 - [Redis集群和主从复制](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/10-Redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
+- 一致性哈希
 
 
 ## 🍵 Java
