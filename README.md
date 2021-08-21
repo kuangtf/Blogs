@@ -53,7 +53,7 @@
 
 ### 数据结构
 
-- [红黑树](https://www.jianshu.com/p/e136ec79235c)
+- [红黑树](https://mp.weixin.qq.com/s/sPIE54UmvNgINZIATQKyew)
 - [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
 - [手撸LRU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486428&idx=1&sn=3611a14535669ba3372c73e24121247c&chksm=9bd7f5d4aca07cc28c02c3411d0633fc12c94c2555c08cbfaa2ccd50cc2d25160fb23bccce7f&scene=21#wechat_redirect)
 - [手撸LFU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486545&idx=1&sn=315ebfafa82c0dd3bcd9197eb270a7b6&chksm=9bd7f259aca07b4f063778509b3803993bc0d6cdaff32c076a102547b0afb82a5eea6119ed1a&scene=21#wechat_redirect)
@@ -95,6 +95,9 @@
     - NIO - IO多路复用详解
     - Java AIO
     - NIO - 零拷贝
+    - 阻塞、非阻塞
+    - 同步、异步
+    - [Reactor和Proactor](https://mp.weixin.qq.com/s/px6-YnPEUCEqYIp_YHhDzg)
 
 ### Linux
 
@@ -210,6 +213,7 @@
 - [HashMap底层原理](https://tech.meituan.com/2016/06/24/java-hashmap.html)
 - [ConcurrentHash底层原理](https://www.pdai.tech/md/java/thread/java-thread-x-juc-collection-ConcurrentHashMap.html)
 - ArrayList 和 LinkedList有什么区别
+- vector
 - HashTable ， HashSet，TreeSet详解
 
 ### 并发
@@ -224,7 +228,7 @@
 - [AQS](https://tech.meituan.com/2019/12/05/aqs-theory-and-apply.html)
 - [Unsafe](https://tech.meituan.com/2019/02/14/talk-about-java-magic-class-unsafe.html)
 - [ThreadPoolExecutor](https://www.processon.com/view/link/6120e4380791297c64e145ac)
-- [ThreadLocal](https://www.pdai.tech/md/java/thread/java-thread-x-threadlocal.html)
+- [ThreadLocal](https://mp.weixin.qq.com/s/LzkZXPtLW2dqPoz3kh3pBQ)
 - [CAS](https://blog.csdn.net/ls5718/article/details/52563959) 
 - [LockSupport](https://www.pdai.tech/md/java/thread/java-thread-x-lock-LockSupport.html)
 - [Semaphore](https://www.pdai.tech/md/java/thread/java-thread-x-juc-tool-semaphore.html)
@@ -245,16 +249,18 @@
 - CMS和G1的区别
 - [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
 - 哪些东西可以作为GC Roots
+- [CPU100%排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
 
 ## 🔥 必备框架
 
 ### Spring
 
-- Spring 事务传播机制
+- [Spring 事务传播机制](https://mp.weixin.qq.com/s/IglQITCkmx7Lpz60QOW7HA)
 - IOC和AOP原理
+- [Spring启动流程](https://mp.weixin.qq.com/s/ut3mRwhfqXNjrBtTmI0oWg)
 - Spring bean的生命周期
 - Spring 中用到的设计模式
-- spring怎么解决循环依赖
+- [spring怎么解决循环依赖](https://mp.weixin.qq.com/s/5mwkgJB7GyLdKDgzijyvXw)
 - beanFactory和Factory的区别
 
 ### SpringMVC
@@ -284,6 +290,10 @@
 
 - 原理
 
+### zookeeper
+
+- 原理
+
 ## 🔮 微服务
 
 ### SpringCloud
@@ -304,13 +314,13 @@
 
 ## 👷  中间件
 
-### zookeeper
-
-- 原理
-
 ### RabbitMQ
 
 - [RabbitMQ详解](https://blog.csdn.net/weixin_46156200/article/details/113729844)
+
+### Kafka
+
+- 原理
 
 ## 🦄 系统设计
 
