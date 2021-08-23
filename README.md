@@ -293,7 +293,7 @@
 
 ### zookeeper
 
-- 原理
+- [学习笔记](framework/zookeeper/zookeeper.md)
 
 ## 🔮 微服务
 
