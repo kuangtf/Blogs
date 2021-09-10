@@ -54,6 +54,7 @@
 ### 数据结构
 
 - [红黑树](https://mp.weixin.qq.com/s/sPIE54UmvNgINZIATQKyew)
+- AVL树
 - [平衡二叉树](https://zhuanlan.zhihu.com/p/56066942)
 - [手撸LRU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486428&idx=1&sn=3611a14535669ba3372c73e24121247c&chksm=9bd7f5d4aca07cc28c02c3411d0633fc12c94c2555c08cbfaa2ccd50cc2d25160fb23bccce7f&scene=21#wechat_redirect)
 - [手撸LFU](http://mp.weixin.qq.com/s?__biz=MzAxODQxMDM0Mw==&mid=2247486545&idx=1&sn=315ebfafa82c0dd3bcd9197eb270a7b6&chksm=9bd7f259aca07b4f063778509b3803993bc0d6cdaff32c076a102547b0afb82a5eea6119ed1a&scene=21#wechat_redirect)
@@ -201,7 +202,7 @@
 - [反射](https://mp.weixin.qq.com/s/Z4L1y-NbStBDSWYVK28kbA)
 - [动态代理](https://mp.weixin.qq.com/s/HI32MA5lsyzgMnqJQi4F6A)
 - [String、StringBuilder、StringBuffer区别](https://mp.weixin.qq.com/s/4fXP9ahIPtcsKqlZwdOQJg)
-- Object类中有哪些方法
+- [Object类中有哪些方法](https://gitee.com/kuangtf/blogImage/raw/master/img/object%E7%B1%BB%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95.jpg)
 - [Java泛型详解](https://www.pdai.tech/md/java/basic/java-basic-x-generic.html)
 - [Java中的包装类](https://mp.weixin.qq.com/s/qmlNXlPj4gPeVvLOdYLbUA)
 - [Comparable和Comparator](https://www.cnblogs.com/skywang12345/p/3324788.html)
@@ -251,6 +252,7 @@
 - [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
 - 哪些东西可以作为GC Roots
 - [CPU100%排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
+- [内存溢出排查](https://mp.weixin.qq.com/s/7XGD-Z3wrThv5HyoK3B8AQ)
 
 ## 🔥 必备框架
 
