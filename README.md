@@ -184,14 +184,17 @@
 - 为什么 Redis 这么快
 - 布隆过滤器
 - [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
-- 保证数据库和缓存的一致性
-- Redis如何实现分布式锁，及其原理
+- [保证数据库和缓存的一致性](https://mp.weixin.qq.com/s/4W7vmICGx6a_WX701zxgPQ)
+- [Redis如何实现分布式锁](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
 - [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
 - [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
 - Redis和Memcached的区别
 - [Redis发布订阅](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/9-Redis%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85)
 - [Redis集群和主从复制](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/10-Redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
 - 一致性哈希
+- [Redis性能问题](https://mp.weixin.qq.com/s/Qc4t_-_pL4w8VlSoJhRDcg)
+- [Redis可以当做队列吗](https://mp.weixin.qq.com/s/RthQvzLHZRGNo-z6X_7jQQ)
+- [Redis中的一些坑](https://mp.weixin.qq.com/s/CHtZI9k2qQ_YJb5Mwzrukw)
 
 
 ## 🍵 Java
@@ -209,6 +212,7 @@
 - sleep和wait的区别
 - 为什么重写equals时要重写hashCode
 - Java多态如何实现
+- 抽象类和接口的区别
 
 ### 集合
 
