@@ -174,27 +174,23 @@
 
 ### Reids
 
-- Redis底层数据结构
-- [淘汰过期键的策略]()
-- [内存淘汰机制](https://zhuanlan.zhihu.com/p/355322772)
+- [Redis底层数据结构](https://www.kancloud.cn/kancloud/redisbook/63826)
+- [淘汰过期键的策略和内存淘汰机制](https://mp.weixin.qq.com/s/-caMTrOXQu-o0O44e6I9dQ)
 - [Redis持久化](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/8-Redis%E6%8C%81%E4%B9%85%E5%8C%96)
-- [缓存穿透 缓存雪崩 如何避免](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/11-Redis%E7%BC%93%E5%AD%98%E7%A9%BF%E9%80%8F%E5%92%8C%E9%9B%AA%E5%B4%A9) 
-- [Redis事务](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/5-%E4%BA%8B%E5%8A%A1)
-- Redis单线程模型
-- 为什么 Redis 这么快
-- 布隆过滤器
+- [缓存穿透 缓存雪崩 如何避免](https://mp.weixin.qq.com/s/knz-j-m8bTg5GnKc7oeZLg) 
+- [Redis事务](https://redisbook.readthedocs.io/en/latest/feature/transaction.html)
+- [布隆过滤器](https://github.com/AobingJava/JavaFamily/blob/master/docs/redis/%E5%B8%83%E9%9A%86%E8%BF%87%E6%BB%A4%E5%99%A8(BloomFilter).md)
 - [redis哨兵](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-sentinel.html)
 - [保证数据库和缓存的一致性](https://mp.weixin.qq.com/s/4W7vmICGx6a_WX701zxgPQ)
 - [Redis如何实现分布式锁](https://mp.weixin.qq.com/s/RnSokJxYxYDeenOP_JE3fQ)
 - [redis事件](https://www.pdai.tech/md/db/nosql-redis/db-redis-x-event.html)
-- [redis内存模型](https://zhuanlan.zhihu.com/p/293040974)
-- Redis和Memcached的区别
 - [Redis发布订阅](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/9-Redis%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85)
-- [Redis集群和主从复制](https://veal98.gitee.io/cs-wiki/#/%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1/%E9%AB%98%E5%B9%B6%E5%8F%91/%E7%BC%93%E5%AD%98/Redis/10-Redis%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6)
-- 一致性哈希
+- [Redis集群和主从复制](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247495237&idx=1&sn=8302585810958567a57bda3df6c5d036&chksm=f98daaefcefa23f95e9f4ef083bbf6b8ce80794bb00c68d9070f158e6de9a0265ea39b12e560&scene=132#wechat_redirect)
+- [一致性哈希](http://walkerdu.com/2020/01/02/consistent_hash/)
 - [Redis性能问题](https://mp.weixin.qq.com/s/Qc4t_-_pL4w8VlSoJhRDcg)
-- [Redis可以当做队列吗](https://mp.weixin.qq.com/s/RthQvzLHZRGNo-z6X_7jQQ)
+- [Redis当做队列](https://mp.weixin.qq.com/s/RthQvzLHZRGNo-z6X_7jQQ)
 - [Redis中的一些坑](https://mp.weixin.qq.com/s/CHtZI9k2qQ_YJb5Mwzrukw)
+- [Redis常见面试题](https://mp.weixin.qq.com/s/R1TJMo2IbPUUMox9OAAafQ)
 
 
 ## 🍵 Java
