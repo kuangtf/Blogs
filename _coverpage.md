@@ -1,31 +1,6 @@
-<!-- dark -->
-
-<!-- <br>
-
-<img width="220px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/title.jpg">
-
-
-<div style = "font-weight: 100; font-size: 1.2rem; 
-    color: #eee; text-align: center;
-    text-shadow: 0.3rem 0.3rem 0.4rem rgba(0,0,0,.15);
-    line-height: 1.2;">
-    进击的 Javaer，努力奔跑在全栈的路上 🏃‍
-</div>
-
-<br>
 <br>
 
-
-
-[<i class="fa fa-github-alt fa-1x"></i> GitHub](https://kuangtf.github.io/Blogs)
-[<i class="fa fa-spinner fa-spin"></i> 开始阅读](README.md)
-
-
-<!-- light -->
-
-<br>
-
-<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/title.jpg">
+<img width="280px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/logo.png">
 
 <div style = "font-weight: 100; font-size: 1.5rem; 
     color: rgb(60, 60, 60); text-align: center;
