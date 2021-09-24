@@ -18,7 +18,6 @@
   		padding: 30px 30px 40px 30px !important;
 		}
 </style>
-
 <br>
 
 <p align="center">
