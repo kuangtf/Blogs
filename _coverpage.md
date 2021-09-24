@@ -20,8 +20,6 @@
 [<i class="fa fa-github-alt fa-1x"></i> GitHub](https://kuangtf.github.io/Blogs)
 [<i class="fa fa-spinner fa-spin"></i> 开始阅读](README.md)
 
-![color](#333333) -->
-
 
 <!-- light -->
 
@@ -46,5 +44,6 @@
 [开始阅读](README.md)
 
 <!-- background image -->
-![](https://www.recoluan.com/assets/img/bg.2cfdbb33.svg)
+
+![](https://gitee.com/kuangtf/blogImage/raw/master/img/bg.svg)
 

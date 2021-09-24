@@ -160,7 +160,7 @@
     - [MVVC](https://juejin.cn/post/6871046354018238472)
 - 其他
     - redo log、undo log、bin log 
-    - [一条SQL语句的执行过程](https://www.pdai.tech/md/db/sql-mysql/sql-mysql-execute.html)
+    - [一条SQL语句的执行过程](https://blog.csdn.net/weixin_41385912/article/details/112975752)
     - [分库解决了什么问题?分表解决了什么问题](https://segmentfault.com/a/1190000023914691)
     - [myISAM和innodb的区别](https://www.huaweicloud.com/articles/bb2e4d7dcc7d849df919a88289c9d74c.html)
     - 可以说下数据库范式吗
@@ -250,7 +250,7 @@
 - [垃圾收集器](https://blog.csdn.net/weixin_46156200/article/details/113422370)
 - CMS和G1的区别
 - [常见的垃圾收集算法](https://blog.csdn.net/weixin_46156200/article/details/113178094)
-- 哪些东西可以作为GC Roots
+- [哪些对象可以作为GC Roots](https://blog.csdn.net/weixin_38007185/article/details/108093716)
 - [CPU100%排查](https://mp.weixin.qq.com/s/roEMz-5tzBZvGxbjq8NhOQ)
 - [内存溢出排查](https://mp.weixin.qq.com/s/7XGD-Z3wrThv5HyoK3B8AQ)
 
