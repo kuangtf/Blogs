@@ -260,10 +260,10 @@
 - [Spring 事务传播机制](https://mp.weixin.qq.com/s/IglQITCkmx7Lpz60QOW7HA)
 - IOC和AOP原理
 - [Spring启动流程](https://mp.weixin.qq.com/s/ut3mRwhfqXNjrBtTmI0oWg)
-- Spring bean的生命周期
-- Spring 中用到的设计模式
+- [Spring bean的生命周期](https://www.jianshu.com/p/1dec08d290c1)
+- [Spring 中用到的设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485303&idx=1&sn=9e4626a1e3f001f9b0d84a6fa0cff04a&chksm=cea248bcf9d5c1aaf48b67cc52bac74eb29d6037848d6cf213b0e5466f2d1fda970db700ba41&token=255050878&lang=zh_CN#rd)
 - [spring怎么解决循环依赖](https://mp.weixin.qq.com/s/5mwkgJB7GyLdKDgzijyvXw)
-- beanFactory和Factory的区别
+- [beanFactory和Factory的区别](https://juejin.cn/post/6844903967600836621)
 
 ### SpringMVC
 
