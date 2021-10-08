@@ -21,8 +21,9 @@
 <br>
 
 <p align="center">
-    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/theam.jpg" >
+    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/logo.png" >
 </p>
+
 </br>
 <br>
 
@@ -37,16 +38,8 @@
 
 💡 **「关于」**
 
-- 🎓 博主渣渣一个，这是博主的学习记录笔记，不得用于商用。
-- 🔮  [Github 仓库地址](https://github.com/kuangtf/Blogs)
-- 常用学习网站：
-    - [Gitee](https://kuangtf.gitee.io/blogs/#/)
-    - [CS-Wiki](https://veal98.gitee.io/cs-wiki/#/README)
-    - [Java全栈](https://www.pdai.tech/md/outline/x-outline.html#%E5%85%A8%E6%A0%88%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E8%A7%88)
-    - [CS-Notes](http://www.cyc2018.xyz/#%E7%AE%97%E6%B3%95)
-    - [OI-Wiki](https://oi-wiki.org/)
-    - [JavaGuide](https://snailclimb.gitee.io/javaguide/#/)
-    - [Doocs](https://doocs.gitee.io/advanced-java/#/)
+- 博主渣渣一个，这是博主的学习记录笔记，不得用于商用。
+- [个人博客](https://kuangtf.gitee.io/)
 
 ## 🤖 算法
 
@@ -264,6 +257,7 @@
 - [Spring 中用到的设计模式](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485303&idx=1&sn=9e4626a1e3f001f9b0d84a6fa0cff04a&chksm=cea248bcf9d5c1aaf48b67cc52bac74eb29d6037848d6cf213b0e5466f2d1fda970db700ba41&token=255050878&lang=zh_CN#rd)
 - [spring怎么解决循环依赖](https://mp.weixin.qq.com/s/5mwkgJB7GyLdKDgzijyvXw)
 - [beanFactory和Factory的区别](https://juejin.cn/post/6844903967600836621)
+- [Spring 事务总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/spring/Spring事务总结)
 
 ### SpringMVC
 
@@ -277,24 +271,31 @@
 - Mybatis的动态SQL
 - Mybatis半自动和全自动的区别
 - mybatis事务
+- [MyBatis 常见面试题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/framework/mybatis/mybatis-interview)
 
 ### Spring Boot
 
 - Spring Boot 启动流程
 - @SpringBootApplication注解
-- 自动装配原理
+- [自动装配原理](https://www.cnblogs.com/javaguide/p/springboot-auto-config.html)
+- [Spring/Spring Boot 常用注解总结！安排！](https://snailclimb.gitee.io/javaguide/#/./docs/system-design/framework/spring/SpringBoot+Spring常用注解总结)
 
 ### Netty
 
 - 从BIO、NIO到Netty
+- [剖析面试最常见问题之 Netty（上）](https://xiaozhuanlan.com/topic/4028536971)
+- [剖析面试最常见问题之 Netty（下）](https://xiaozhuanlan.com/topic/3985146207)
 
 ### Dubbo
 
-- 原理
+- [Dubbo 常见问题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/rpc/Dubbo)
 
 ### zookeeper
 
 - [学习笔记](framework/zookeeper/zookeeper.md)
+- [【入门】ZooKeeper 相关概念总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/zookeeper/zookeeper-intro)
+- [【进阶】ZooKeeper 相关概念总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/zookeeper/zookeeper-plus)
+- [【实战】ZooKeeper 实战](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/zookeeper/zookeeper-in-action)
 
 ## 🔮 微服务
 
@@ -306,6 +307,7 @@
 - 服务网关：Zuul、gateway
 - 服务配置：Config
 - 服务总线：Bus
+- [大白话入门 Spring Cloud](https://snailclimb.gitee.io/javaguide/#/docs/system-design/micro-service/spring-cloud)
 
 ### SpringCloudAlibaba
 
@@ -322,7 +324,7 @@
 
 ### Kafka
 
-- 原理
+- [Kafka 常见问题总结](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/message-queue/Kafka常见面试题总结)
 
 ## 🦄 系统设计
 
@@ -341,10 +343,17 @@
 
 - 面向对象的三大特征
 
+### 分布式
+
+- [为什么要分布式 id ？分布式 id 生成方案有哪些？](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed/分布式ID)
+- [CAP理论解读](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/CAP理论)
+- [BASE理论解读](https://snailclimb.gitee.io/javaguide/#/docs/system-design/distributed-system/BASE理论)
+- Paxos 算法和 Raft 算法
+
 ## 🏆 项目
 
-- 开源考试项目
-- RPC项目
+- [微社区](https://github.com/kuangtf/vcommunity)
+- [RPC](https://github.com/kuangtf/rpc-ktf)
 
 ## 🔨 工具 
 

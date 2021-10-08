@@ -12,5 +12,5 @@
     * [🔨 工具](README?id=🔨-工具)
     * [📞 后记](README?id=📞-后记)
 * [公众号](README?id=📞-后记)
-* [看板](https://blog.csdn.net/weixin_46156200?spm=1001.2100.3001.5343)
+* [博客](https://kuangtf.gitee.io/)
 
