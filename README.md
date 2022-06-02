@@ -21,8 +21,9 @@
 <br>
 
 <p align="center">
-    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/logo.png" >
+    <img width="320px" src="https://cdn.jsdelivr.net/gh/kuangtf/PictureBed/img/logo.png" >
 </p>
+
 
 </br>
 <br>
@@ -33,6 +34,17 @@
 | [🤖 ](README?id=🤖-算法) | [🎮](README?id=🎮-操作系统) | [🎨  ](README?id=🎨-网络 ) | [📑 ](README?id=📑-数据库) | [🍵 ](README?id=🍵-Java) | [🔥 ](README?id=🔥-必备框架) | [🔮 ](README?id=🔮-微服务) | [👷 ](README?id=👷-中间件) | [🦄](README?id=🦄-系统设计) | [🏆](README?id=🏆-项目) | [🔨](README?id=🔨-工具) | [📞 ](README?id=📞-后记) |
 
 </br>
+
+<div align="center">
+[![GitHub stars](https://img.shields.io/github/stars/kuangtf/vcommunity?logo=github)](https://github.com/kuangtf/vcommunity/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/kuangtf/vcommunity?logo=github)](https://github.com/kuangtf/vcommunity/network) 
+
+<a href="#README?id=📞-后记"><img src="https://img.shields.io/badge/公众号-帅枫-orange" alt="公众号"></a>
+<a href="https://gitee.com/kuangtf/vcommunity"><img src="https://img.shields.io/badge/备战校招-开源社区项目-blueviolet" alt="配套教程"></a>
+<a href="https://gitee.com/kuangtf/rpc-ktf"><img src="https://img.shields.io/badge/备战校招-轻量级RPC-brightgreen" alt="RPC"></a>
+[![GitHub license](https://img.shields.io/github/license/kuangtf/Blogs?logo=github)](https://github.com/kuangtf/vcommunity)
+
+</div>
 
 ---
 
@@ -361,19 +373,4 @@
 - [Docker](https://www.pdai.tech/md/devops/docker/docker-00-overview.html)
 - [正则表达式](https://www.pdai.tech/md/develop/regex/dev-regex-all.html)
 
-## 📞 后记
-**公众号**
 
-- 文章会第一时间在公众号推送哟
-
-<p align="center">
-    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/gong.jpg" style="zoom:50%;" >
-</p>
-
-**联系我**
-
-- 有什么问题也可以添加我的微信，记得备注来意：格式 （学校或公司 - 姓名或昵称 - 来意）
-
-<p align="center">
-    <img width="320px" src="https://gitee.com/kuangtf/blogImage/raw/master/img/wei.jpg" style="zoom:50%;" >
-</p>

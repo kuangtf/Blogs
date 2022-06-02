@@ -11,6 +11,4 @@
     * [🏆 项目](README?id=🏆-项目)
     * [🔨 工具](README?id=🔨-工具)
     * [📞 后记](README?id=📞-后记)
-* [公众号](README?id=📞-后记)
-* [博客](https://kuangtf.gitee.io/)
 
